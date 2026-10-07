@@ -30,6 +30,12 @@ npm run dev
 
 Open the URL Vite prints (often http://localhost:5173).
 
+## Live site
+
+https://cienergy.github.io/company-researcher/
+
+Repo: https://github.com/Cienergy/company-researcher
+
 ## Notes
 
 - Green credits in BRSR are often **Nil** — dossiers say so; the sales angle is reliable fuel, not credit resale.
