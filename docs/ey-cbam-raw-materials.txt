@@ -1,0 +1,611 @@
+Carbon pricing meets raw materials CBAM’s impact on Indian industries
+
+##### CONTENTS
+
+| Global carbon emissions landscape | 10 |
+| --- | --- |
+| India’s position on carbon emissions | 14 |
+| CBAM and its impact | 18 |
+| CBAM’s impact on India’s metal and mining sector | 22 |
+| India’s strategic response to CBAM | 30 |
+| CBAM: An opportunity for revenue growth | 36 |
+| Conclusion | 40 |
+
+Executive summary 06
+
+FORWORD Global trade and industrial competitiveness are undergoing a fundamental shift as regulators worldwide increasingly integrate climate considerations into business operations and supply chain governance. Emerging rules on carbon disclosure, environmental due diligence, sustainable finance and cross‑border accountability are reshaping how businesses produce, report and trade. As these frameworks evolve across the EU, UK, China and other major economies, companies are required to demonstrate credible emissions performance and transparent verification practices as a condition of participating in global value chains. Within this evolving regulatory landscape, the European Union’s Carbon Border Adjustment Mechanism (CBAM) represents a particularly significant development for India. By linking international trade to verified carbon intensity, CBAM signals a decisive move toward carbon‑aligned commerce and places new operational expectations on emissions‑intensive sectors. CBAM is a catalyst for Indian exporters, compelling stronger monitoring and reporting systems, accelerated decarbonization and more strategic integration with emerging global norms. As climate and trade policy become increasingly intertwined, CBAM marks a pivotal moment for Indian industry to align competitiveness with the low‑carbon transformation. Against this background, the Indian Chamber of Commerce (ICC) is organizing the 16th edition of the India Corporate Governance and Sustainability Vision Summit and Awards at New Delhi on 13 March 2026. This event aims to explore various aspects of corporate governance, including implementation challenges and strategies for achieving success in climate change governance and sustainability. ICC, along with EY as knowledge partner, confers the Corporate Governance and Sustainability Vision Awards to various Indian businesses to recognize and honor their significant efforts toward creating a sustainable development model for society at large. This knowledge report takes a deep dive into the challenges faced by Indian industries with the evolving landscape of carbon pricing and global trade policies, particularly CBAM. Trust you will enjoy reading it.
+
+Dr Rajeev Singh
+
+Director General, Indian Chamber of Commerce
+
+Chaitanya Kalia
+
+Partner & National Leader, CCaSS, EY India
+
+Saunak Saha
+
+Partner CCaSS, EY India
+
+### EXECUTIVE
+
+### SUMMARY
+
+Global carbon emissions remain structurally high despite accelerating clean energy deployment, with emissions growth increasingly concentrated in emerging economies such as India. This evolving emissions landscape — characterized by regional divergence, heightened carbon transparency and the growing use of trade‑linked climate instruments — forms the macroeconomic context for the European Union’s Carbon Border Adjustment Mechanism (CBAM). By embedding carbon costs directly into market access conditions, CBAM represents a structural shift in global trade governance, linking competitiveness to verified emissions performance rather than production costs alone. For India, CBAM disproportionately affects carbon‑intensive, trade‑exposed sectors — most notably steel, aluminum, cement and fertilizers — through increased landed costs, margin compression and stringent monitoring, reporting and verification (MRV) requirements. Sectoral analysis indicates heterogeneous impacts: steel and cement face the most acute competitiveness pressures due to high process and fuel‑related emissions; aluminum faces moderate but persistent risks linked to coal‑based power dependence and data gaps; fertilizers are relatively less affected but remain vulnerable under broader economy‑wide adjustments. Beyond direct trade effects, CBAM generates indirect impacts across energy systems, downstream manufacturing and household welfare.
+
+At the same time, CBAM also creates strategic opportunities. By altering relative price signals, it incentivizes export diversification, low‑carbon production pathways and carbon differentiation as drivers of revenue growth. Evidence from India’s metals and mining sectors suggests that reallocating exports toward select non‑EU markets, scaling renewable‑linked and circular production and improving MRV credibility can enhance unit revenues and margin resilience even under tightening global carbon constraints. These dynamics underscore that CBAM is not merely a compliance burden but a catalyst for structural reorientation in India’s industrial and trade strategy. India’s policy response — anchored in the Carbon Credit Trading Scheme (CCTS) — is therefore central. By internalizing carbon pricing domestically, retaining revenues within the national fiscal system and recycling proceeds toward transition support and clean investment, CCTS offers a mechanism to convert CBAM‑induced external pressure into a managed, development‑aligned transition pathway.
+
+The global
+
+01 carbon emission landscape
+
+The current carbon emissions landscape is characterized by persistent absolute emissions, even as clean energy expansion accelerates. According to the International Energy Agency (IEA), energy‑related CO ₂ emissions reached a record high of 37.8 GtCO ₂ in 2024, increasing by 0.8% since last year. [1] Emerging and developing economies accounted for most of the net emissions growth, while advanced economies reduced emissions marginally. China remained the world’s largest emitter in absolute terms, but its emissions growth moderated to 0.4% compared to last year, partly due to massive additions of renewable capacity and a slowdown in energy‑intensive industrial output. In
+
+contrast, India recorded the fastest emissions growth among major economies, with a 5.3% increase in absolute emissions compared to last year, driven by rapid economic expansion, infrastructure development, rising electricity demand and prolonged heatwaves that increased reliance on coal‑based power generation. At the same time, clean energy technologies, namely solar PV, wind, nuclear, EVs and heat pumps, have collectively reduced 2.6 GtCO ₂ of carbon emissions in 2024, according to the IEA [2], signaling a structural but insufficient shift toward low‑carbon systems. The IEA estimates that approximately half of the global emissions increase in 2024 was attributable to extreme weather conditions.
+
+| CO2 emissions*(Mt CO2) | Growth rate |
+| --- | --- |
+| 2022 | 2023 2024 2025 |
+| World 36819 | 37270 37566 1.2% 0.8% |
+| United States 4717 | 4567 4546 -3.2% -0.5% |
+| European Union 2683 | 2455 2401 -8.5% -2.2% |
+| China 12013 | 12552 12603 4.5% 0.4% |
+| India 2691 | 2836 2987 5.4% 5.3% |
+
+*Include industrial process emissions Figures as per IEA: Global Energy Review 2025
+
+In response, global regulatory reforms have intensified, aiming to reduce emissions not only domestically but also across international supply chains. Regions such as the EU, UK, China and several G20 economies have expanded carbon‑pricing systems, tightened industrial emissions norms, introduced mandatory reporting and accelerated renewable energy deployment. The EU has been at the forefront of these reforms — strengthening the EU Emissions Trading System (ETS), phasing down free allowances and embedding climate objectives into trade, energy and industrial policy. These measures reflect a broader global shift from voluntary decarbonization to mandatory, market‑linked carbon accountability. The global emissions challenge is concentrated in hard‑to‑abate industrial sectors that the IEA identifies as major contributors to energy‑related and process‑related emissions due to coal use, calcination and electricity‑intensive production. These same sectors
+
+form a significant part of global manufacturing and international value chains, with substantial export flows to large consumer markets such as the European Union. India, China, Brazil, Turkey and other emerging economies have become key suppliers of these materials. This intersection of high emissions and cross‑border trade has prompted the European Union to introduce the Carbon Border Adjustment Mechanism (CBAM) — a regulatory instrument designed to establish that imported carbon‑intensive goods face a carbon price comparable to that borne by EU producers. CBAM links trade access to verified emissions performance, applying EU‑ETS‑indexed carbon costs to imports of steel, aluminum, cement, fertilizers, electricity and hydrogen. By doing so, CBAM seeks to prevent carbon leakage, incentivize cleaner production globally and use the purchasing power of EU markets to influence upstream industrial emissions.
+
+India today occupies a pivotal position in the global carbon economy, shaped by rapid economic expansion, rising energy demand and continued dependence on coal across industry, power generation and hard‑to‑abate sectors. Even as the country advances toward becoming a major manufacturing and service hub, it should navigate the complexities of balancing growth aspirations with climate responsibilities in an increasingly carbon conscious global market. India has committed to a long‑term low‑carbon transformation. At COP26, India announced its net‑zero target for 2070 and unveiled the Panchamrit commitments, which include major goals such as expanding non‑fossil electricity capacity, reducing emissions intensity and increasing the share of renewables in the national energy mix. These commitments signal India’s intent to align growth with sustainability, even as its energy demand and industrial output continue to rise. [3] Within this broader transition, sectoral emissions profiles and export dependencies shape India’s exposure to emerging climate‑linked trade rules. India’s most carbon‑intensive industrial sectors are also deeply integrated into global value chains, with significant export linkages to markets such as the European Union. As global regulations increasingly tie market access to verified carbon performance, instruments like the EU’s CBAM place new expectations on Indian businesses to improve emissions transparency, accelerate cleaner production technologies and strengthen monitoring and reporting systems. India emerges as a particularly exposed economy due to the scale of its exports to the EU, the high carbon intensity of its steel and aluminum sectors, and the absence — until recently — of a mature domestic carbon price. In 2023,
+
+India was among the most exposed countries globally, with CBAM‑covered exports to the EU exceeding €6 billion, dominated by iron and steel followed by aluminum. The country’s continued reliance on coal‑based steelmaking technologies amplifies its vulnerability amid rising global overcapacity and accelerating decarbonization pressures. In anticipation, India has initiated the development of a national Carbon Credit Trading Scheme (CCTS) and is exploring the introduction of an export‑point carbon tax to offset CBAM liabilities and retain revenues domestically. However, concerns persist regarding administrative complexity, disproportionate impacts on small and medium enterprises and perceived tensions with the principle of common but differentiated responsibilities under the Paris Agreement — issues India has raised in multilateral trade forums. [4] Overall, CBAM represents a structural shift in the governance of global trade, progressively linking market access to verified emissions performance. In the short term, its effects are characterized by administrative burdens, potential market fragmentation and heightened trade tensions. In the longer term, CBAM is likely to accelerate the global spread of carbon pricing, reorient trade flows and stimulate investment in low‑carbon industrial technologies. For India and other emerging economies, CBAM thus constitutes both a competitiveness challenge and an opportunity for industrial modernization — one that will require coordinated climate diplomacy, targeted technology transfer and enhanced financial support to facilitate an equitable transition.
+
+## India’s position on 02 carbon emission
+
+The pie chart represents an indicative breakdown of how CBAM -related costs are expected to distribute across key impact channels. 
+Values are illustrative and represent proportional cost burdens. 
+
+Cost impact of CBAM (%)
+
+55
+
+18
+
+12
+
+10
+
+3 2
+
+Direct carbon cost (CBAM certificates) Competitiveness and margin pressure Compliance, MRV and verification costs Capex/decarbonization response Supply chain and contracting friction Financing/working capital effects
+
+The Carbon Border Adjustment Mechanism (CBAM) constitutes a central pillar of the European Union’s (EU) climate strategy under the European Green Deal, aimed at achieving climate neutrality by 2050. It was conceived to address the persistent risk of carbon leakage, whereby carbon‑intensive industries relocate production to jurisdictions with weaker climate regulations, thereby undermining the environmental integrity of the EU’s decarbonization efforts. While the EU has long operated the Emissions Trading System (EU ETS) — a cap‑and‑trade mechanism that limits total emissions and requires companies to buy allowances for every ton of CO ₂ emitted — rising carbon prices and tightening emissions caps increasingly exposed domestic producers in sectors such as steel, cement, aluminum and fertilizers to competitive disadvantages. To mitigate this imbalance, the European Commission proposed CBAM in 2021, seeking to extend EU‑style carbon pricing to selected imports by imposing a charge equivalent to that faced by EU producers under the ETS. Following its formal adoption in May 2023, CBAM entered a transitional phase on 1 October 2023, during which importers are required to report embedded emissions without making financial payments. The mechanism’s definitive phase, which commenced on 1 January 2026, requires importers of iron and steel, aluminum, cement, fertilizers, hydrogen and electricity to purchase CBAM certificates priced in line with EU ETS allowances. Over time, the scope is expected to expand to additional sectors and downstream products.
+
+Empirical evidence from the transitional phase suggests that CBAM has not yet produced measurable changes in trade flows, as exporters have largely absorbed reporting‑related administrative costs. However, the introduction of financial obligations from 2026 is expected to trigger structural adjustments in global production and trade. Macroeconomic modeling indicates that while the overall impact on the EU economy will be modest — projected GDP contraction of around 0.22% by 2030 — the sectoral effects are pronounced. Imports of CBAM‑covered goods are expected to decline significantly, particularly in emissions‑intensive sectors, alongside a marked reduction in carbon leakage within the EU. These gains, however, are accompanied by distributional consequences for trade collaborators with high emissions intensity and strong reliance on the EU market. Globally, CBAM exposure is highest for large exporters such as China, Türkiye, India, Brazil, Vietnam and Ukraine, as well as for several lower‑income economies where CBAM‑covered goods constitute a substantial share of industrial output. In response, a growing number of countries, including China, Türkiye, Brazil, the United Kingdom and India, have begun adopting or expanding domestic carbon pricing mechanisms to reduce CBAM liabilities and retain carbon‑pricing revenues domestically. These developments point to significant policy spillovers, with CBAM already catalyzing the diffusion of carbon markets worldwide. Nonetheless, the adjustment burden remains uneven: developed economies possess greater fiscal and technological capacity to subsidize decarbonization, whereas many developing countries face potential real‑income losses in the absence of adequate financial and technological support.
+
+## CBAM and 03 its impact
+
+Sectoral impact of CBAM in India
+
+The EU Carbon Border Adjustment Mechanism (CBAM) represents a structural shift in global trade governance by embedding carbon costs directly into market access conditions. For Indian industries, CBAM primarily affects carbon‑intensive, trade‑exposed sectors — most notably steel, aluminum, cement and fertilizers — through mandatory emissions disclosure, certificate purchases aligned with EU ETS prices and stringent verification requirements. This transforms carbon from a background compliance consideration into an explicit cost component of exports, with implications for price competitiveness, margins and contractual arrangements. Beyond direct cost pass‑through, CBAM generates systemic adjustment pressures by incentivizing production‑side decarbonization, emissions transparency across supply chains and alignment with emerging domestic carbon pricing instruments such as India’s CCTS. The magnitude and distribution of impacts vary by sector, reflecting differences in emissions intensity, production technology, export dependence on the EU market and readiness to adopt low‑carbon alternatives. The following sectoral deep dives examine these dynamics in detail for steel, aluminum and cement.
+
+The pie chart presents the indicative distribution of embedded emissions across CBAM covered sectors, showing the largest contributors to India’s embedded carbon footprint in export oriented manufacturing. Values are illustrative.
+
+Sector-wise emission share (%)
+
+45
+
+22
+
+21
+
+10
+
+2
+
+Steel Cement Aluminum Fertilizers Other CBAM-linked goods
+
+5. Energy and electricity (indirect effects)
+
+Cement exports to the EU are modest in volume but are expected to decline sharply under CBAM due to extremely high process emissions. Studies show that cement experiences one of the steepest proportional export declines, with limited diversion options due to product bulkiness and freight costs. Major producers are lowering clinker ratios, increasing alternative fuels and piloting waste‑heat recovery and Carbon Capture, Utilization, and Storage (CCUS). [5]
+
+CBAM‑driven increases in steel, cement and aluminum costs raise input prices for construction, automotive and capital goods sectors. This reduces domestic output and productivity and leads to measurable household welfare losses — especially in urban areas tied to manufacturing‑sector income. Firms are redesigning value chains, improving materials efficiency and exploring low‑carbon procurement to mitigate input cost escalation.
+
+India’s aluminum exports to the EU have already declined by 9.8% in FY25 in response to CBAM’s reporting requirements and buyer‑side renegotiations. Aluminum faces moderate reductions under CBAM, largely driven by coal‑based captive power that inflates indirect emissions. Non‑EU market competitiveness may weaken further as carbon‑linked costs pass through supply chains. Leading aluminum producers are transitioning to renewable‑linked smelting, virtual power purchase agreements (VPPAs) and scrap‑based secondary aluminum. [6]
+
+CBAM’s cost pressures extend indirectly into India’s energy system. Electricity‑intensive production faces higher carbon‑linked costs, causing declines in fossil‑fuel‑based output while strengthening relative demand for renewables, which may expand under CBAM. Utilities are scaling renewable capacity, modernizing grids and preparing to integrate the domestic CCTS with Renewable Energy Certificates (RECs). [5]
+
+2. Cement
+
+6. Downstream manufacturing and households
+
+3. Aluminum
+
+The steel sector is the most exposed, accounting for approximately 90% of India’s CBAM‑covered exports to the EU. Even before CBAM charges begin, steel exports to the EU have already fallen by 35.1%, dropping to US$3.05 billion in FY25 from FY24 levels, primarily due to reporting burdens and buyer‑side price pressure. Several studies show further contraction once full carbon costs apply, reducing both EU‑bound exports and competitiveness in non‑EU markets. Steel firms are shifting toward electric arc furnaces (EAF) and gas -based direct reduced iron (DRI), improving energy efficiency and preparing plant‑level MRV systems to avoid default values. [5] [6]
+
+1. Iron and steel
+
+Fertilizers display a more resilient and mixed response. Initial studies show exports to the EU may rise in the early stages due to relatively lower carbon intensity and small baseline volumes but fall later as CBAM obligations tighten across the economy. Overall, fertilizers are the least negatively affected sector among CBAM‑covered industries. Firms are improving energy efficiency, adopting green ammonia pilots and strengthening emissions data systems. [5]
+
+4. Fertilizers
+
+Most impacted sectors and industrial consequences [5] [6]
+
+Sector Nature of impact Expected market shift (2026–2030)
+
+Iron and steel
+
+Critical/high risk. Responsible for ~30% of industrial emissions. Face 15% -22% price hikes on EU exports due to CBAM.
+
+Shift from coal -based blast furnaces to Green Hydrogen-DRI and electric arc furnaces (EAF). Consolidation as smaller players struggle with MRV costs.
+
+Cement
+
+High opportunity. Indian cement is already among the world’s most energy efficient.
+
+Major players are becoming net sellers of carbon credits, creating a new revenue stream that offsets green technology costs.
+
+Aluminum
+
+Moderate/high. High reliance on coal fired captive power plants.
+
+Accelerated transition to renewable energy (RE) bundling and power purchase agreements (PPAs) to lower the carbon footprint per ton.
+
+Power and utilities
+
+Systemic. Integration of CCTS with RECs.
+
+Rapid phase -out of inefficient "sub -critical" coal plants. Utilities will trade credits based on their grid -emission factors.
+
+The pie chart reflects how CBAM‑driven costs are expected to fall unevenly across sectors, highlighting greater impacts on energy‑ and carbon‑intensive industries.
+
+Cost impact on each sector (%)
+
+42
+
+26
+
+18
+
+10
+
+4
+
+Steel Aluminum Cement Fertilizers Other CBAM-linked goods
+
+India’s metals and mining sector sits at the core of the country’s industrial ecosystem, supplying essential inputs for construction, infrastructure, transportation, energy and manufacturing. The sector is characterized by energy‑intensive production routes — most notably coal‑based steelmaking and electricity‑driven aluminum smelting — which give rise to high embedded emissions. As global trade becomes increasingly shaped by climate‑aligned regulations, these characteristics place India’s metallurgical industries under growing scrutiny, particularly in export‑oriented value chains. Under CBAM, iron and steel and aluminum are among the first metal categories brought fully under the reporting and pricing framework. Both are considered carbon‑intensive, trade‑exposed goods due to their high process and electricity‑related emissions, as well as their long‑standing export linkages with the European market. This brings these sectors directly within CBAM’s scope, requiring verified installation‑level emissions data and imposing EU‑ETS‑indexed carbon costs on export shipments. For producers reliant on coal‑based power or legacy blast furnace–basic oxygen furnace (BF‑BOF) routes, CBAM materially increases the cost of EU‑bound trade and elevates the need for transparent MRV systems. India’s current goods exports to the EU are about US$63.5–US$75.8 billion annually, with iron and steel (US$4.25 billion) and aluminum (US$0.92 billion) forming the core CBAM exposed segments. Given this exposure,
+
+several billion dollars’ worth of Indian exports now face CBAM linked carbon costs, with steel and aluminum bearing the highest immediate financial impact due to their embedded emissions. [7] At the same time, CBAM’s evolving design suggests that more metal forms and downstream products may be included in future expansions. The mechanism is explicitly structured to broaden its coverage as the EU phases out free allowances and strengthens its domestic ETS. This creates the possibility that semi‑finished and finished metallurgical products — such as stainless steel forms, specialty alloys, fabricated metal components and copper or nickel‑based goods — could gradually come under CBAM obligations as methodologies mature and product‑level emissions accounting becomes more standardized. For India, this forward‑looking risk means that metal producers beyond steel and aluminum will increasingly need to develop credible emissions data systems, reduce process intensity and build compatibility with international carbon‑accounting norms.
+
+The first annual CBAM declaration for 2026 imports — along with the surrender of corresponding certificates — is due on 30 September 2027, marking the beginning of full financial compliance under the definitive regime.
+
+CBAM’s impact on
+
+## India’s metal and 04 mining sector
+
+Iron and steel
+
+India’s iron and steel sector is amongst the most significantly exposed to the EU CBAM due to its reliance on coal‑based BF–BOF production routes and its substantial export presence in the EU market. As CBAM shifts from a reporting requirement to a binding financial obligation starting January 2026, embedded carbon emissions become a chargeable attribute of steel exports, creating a structural disadvantage for Indian producers relative to low‑carbon global benchmarks based on scrap‑EAF or gas‑DRI technologies. The CBAM levy on steel imports is expected to range between US$55–US$65 per ton initially, with projections indicating an increase to nearly US$145 per ton by 2034 as free allowances under the EU ETS are phased out. Steel’s classification as a “complex good” further extends CBAM’s reach beyond pricing, mandating audited, installation‑level emissions data (carbon tags) at the invoice level. Together, these requirements introduce material cost pressures, margin compression and compliance risks. [8] In addition to these pressures, the iron and steel sector must contend with the extra reporting complexity created by CBAM’s approach to precursor materials. A large share of embedded emissions comes from these upstream inputs, and in many cases, the reported emission intensity values for precursors exceed CBAM default values, creating difficulties for exporters. Because steel producers use multiple precursors across production stages, even small quantities of high -intensity inputs can significantly raise the final product’s embedded emissions. This amplification effect highlights a key methodological challenge in the current CBAM framework — one that directly shapes both the financial burden and the competitiveness of Indian exporters as CBAM becomes a monetary obligation. Studies indicate that CBAM could compress profit margins by 9% to 22%, forcing exporters to offer price reductions of around 15% to 22% to stay competitive — putting nearly 15% to 40% of India’s steel exports to the EU at immediate risk of becoming commercially unviable. [8] While short‑term responses include diverting exports to non‑CBAM markets in Africa, Latin America and West Asia, such strategies provide only temporary insulation. Sustained competitiveness under CBAM will depend on structural decarbonization, particularly a gradual shift away from BF–BOF routes toward gas‑based DRI, scrap‑based EAFs and hybrid configurations aligned with emerging low‑carbon hydrogen availability. Leading Indian steelmakers have already begun this transition: firms are expanding renewable energy procurement, piloting hydrogen‑DRI modules, increasing scrap utilization through new EAF capacities, deploying waste‑heat recovery and adopting advanced energy‑efficiency technologies. Parallel upgrades in MRV systems — including digital emissions tracking, third‑party verification pipelines and plant‑level carbon accounting — are becoming standard to avoid the application of conservative EU default values that could significantly inflate CBAM liabilities. India’s newly launched Carbon Credit Trading Scheme (CCTS) is expected to reinforce these efforts by establishing a domestic carbon price signal, incentivizing low‑carbon production and enabling exporters to deduct any carbon costs paid within India from future CBAM obligations. In this sense, CBAM acts as a dual inflection point for India’s steel sector: a near‑term trade and profitability shock and a medium‑to‑long‑term catalyst for technological upgrading and emissions governance reform.
+
+CBAM related impacts and strategic implications for India’s steel sector [5] [8] [9]
+
+Levy of US$55–US$65/t, rising toward US$145/t by 2034
+
+Reduce emissions intensity through process efficiency and fuel switching
+
+BF–BOF production lock in
+
+Structurally higher embedded emissions
+
+Transition toward gas DRI, scrap EAF and hybrid routes
+
+Margin compression
+
+9%–22% decline in profit margins
+
+Product mix optimization and selective EU market participation
+
+| Risk CBAM induced impact | Consequence for steel producers | Priority action |
+| --- | --- | --- |
+| Levy of US$55–US$65/t, rising | Higher landed costs; loss of EU price competitiveness | Reduce emissions intensity through process efficiency and fuel switching |
+| | Persistent disadvantage versus low carbon peers | Transition toward gas DRI, scrap EAF and hybrid routes |
+| | Pressure on export oriented product lines | Product mix optimization and selective EU market participation |
+| | Potential contraction of EU bound volumes | Short term market diversification alongside strategic EU retention |
+| | Higher compliance costs; penalty/ default value risk | Invest in MRV systems and third party verification |
+| Incomplete upstream emissions | Inflated reported emissions and CBAM liability | Supplier engagement and emissions data integration |
+
+Carbon cost exposure
+
+Market access risk 15%–40% of EU exports face viability challenges
+
+Short term market diversification alongside strategic EU retention
+
+Compliance and MRV burden
+
+Installation level audited “carbon tags” required
+
+Invest in MRV systems and third party verification
+
+Supply chain data gaps
+
+Incomplete upstream emissions data
+
+Supplier engagement and emissions data integration
+
+Aluminum sector and shipment volumes have already softened during the transitional reporting phase, indicating compliance frictions even before financial settlement begins. While short‑term market diversification towards Africa and West Asia offers partial relief, long‑term competitiveness hinges on structural measures: accelerated access to clean electricity, scaling secondary aluminum and high‑quality scrap systems and building robust, verification‑ready MRV systems. In this sense, CBAM functions not only as a cost shock but as a systemic compliance and governance inflection point for India’s aluminum value chain. [11] To address these pressures, aluminum producers are undertaking a series of decarbonization and compliance‑readiness measures. Leading firms are expanding captive solar and wind capacity, entering virtual power purchase agreements and accelerating shifts toward scrap‑based secondary aluminum, which offers significantly lower emissions intensity. Investments in digital MRV systems, product‑level emissions accounting and third‑party verification are being scaled to avoid the use of EU default factors. Additionally, India’s emerging CCTS is expected to support the sector’s transition by introducing a domestic carbon price signal and enabling partial deduction of carbon costs paid in India from future CBAM obligations. Together, these developments position the sector for a more credible, low‑carbon export profile in an increasingly carbon‑regulated global market.
+
+India’s aluminum sector is characterized by highly electricity‑intensive smelting, a production base still dominated by coal‑powered captive plants and increasing demand for low‑carbon, high‑quality aluminum in global value chains. Large integrated producers are progressively shifting towards renewable‑linked power through captive solar and wind installations and virtual PPAs, yet sector‑wide emissions remain elevated due to legacy coal dependence and uneven decarbonization among secondary and smaller manufacturers. CBAM converts these structural gaps into direct border costs. Initial compliance cost estimates for primary aluminum range from US$50–US$140 per ton, translating into margin compression and buyer‑driven price adjustments of 15% to 22%. The sector’s exposure is compounded by its classification under CBAM’s definitive regime, which mandates installation‑level emissions data and third‑party verification by EU‑accredited or ISO 14065–compliant verifiers from 2026 onward. Where firm‑specific data are unavailable, EU default values apply — often overstating actual emissions and inflating certificate liabilities, particularly for smaller and secondary aluminum producers with fragmented data systems. [10] Trade exposure further amplifies risk. Approximately 22% to 27% of India’s combined aluminum and steel exports (approximately US$8.2 billion in 2022) are EU‑bound
+
+CBAM related impacts and strategic implications for India’s aluminum sector [10] [11]
+
+| Risk | | CBAM induced impact | | Consequence for aluminum | | | | | | Priority action | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | producers | | | | | | | | |
+| Carbon cost | | US$50–US$140/t CBAM | | Margin compression; buyer driven | | | | | | Embed carbon pass through | | |
+| exposure | | liability linked to EU ETS | | price renegotiations | | | | | | clauses; prioritize low carbon | | |
+| | | prices | | | | | | | | production routes | | |
+| Coal based power | | High indirect emissions from | | Structural disadvantage vs. | | | | | | Scale group captive renewables, | | |
+| dependence | | electricity intensive smelting | | renewable based producers | | | | | | VPPAs, storage and load | | |
+
+shifting
+
+| Data and default | | EU default emissions applied | | Inflated declared emissions and | | | | | | Invest in installation level MRV, | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| value risk | | where plant level data are | | certificate needs | | | | | | digital product passports and | | |
+| | | missing | | | | | | | | supplier data sharing | | |
+| Verification and | | Mandatory third party | | Higher compliance costs; risk of audit | | | | | | Build verification ready | | |
+| compliance burden | | verification from 2026 | | bottlenecks | | | | | | governance, controls and | | |
+
+auditor pipelines
+
+| Revenue and | | 22%–27% of exports EU | | Potential erosion of EU market share | | | | | | Short term market | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| market access risk | | bound; volumes already | | and price realization | | | | | | diversification alongside EU | | |
+| | | softening | | | | | | | | focused decarbonization | | |
+| Technology | | Legacy assets limit rapid | | Slower adjustment relative to global | | | | | | Phase capex toward RE linked | | |
+| transition gap | | emissions reduction | | low carbon benchmarks | | | | | | smelting and future hydrogen | | |
+
+compatibility
+
+Under utilization of low carbon aluminum potential
+
+Secondary aluminum constraints
+
+Recycling cuts emissions ~95%, but scrap systems are weak
+
+Scale segregated scrap collection, quality standards and circular supply chains
+
+Insights from on-ground engagements by EY regarding CBAM readiness in India
+
+methodological clarity, transparent calculation frameworks and sector -specific guidance to enable consistent, equitable and technically robust CBAM compliance across the metal and mining sector. The CBAM cost curve demonstrates a clear and positive correlation between emission intensity and the resulting CBAM liability across the assessed production stages. Production processes with higher emissions intensity (tCO ₂ per ton of output), particularly downstream operations such as cold rolling, incur disproportionately higher CBAM costs due to the cumulative effect of upstream and direct process emissions embedded in the final product. The curve further illustrates that even marginal increases in emission intensity can materially amplify CBAM exposure. This finding reinforces the strategic importance of targeted decarbonization interventions in emission -intensive stages of the value chain to mitigate carbon cost risks and enhance long -term export competitiveness under the CBAM framework.
+
+During our client engagements with leading metal and mining industries for CBAM implementation, we encountered various challenges faced by these industries. Initial process -level cost simulations projected a CBAM liability in the range of approximately €200–€250 per ton of exported product, prior to accounting for free allocation adjustments. Upon incorporating the Specific Embedded Free Allocation (SEFA) mechanism, the cost estimates were recalibrated to reflect the effective emissions subject to CBAM obligations. SEFA refers to the free emission allowances that EU producers receive under the EU -ETS for specific products being exported to the European Union. The revised CBAM cost per ton was computed using the following formulation:
+
+CBAM cost per ton = [(actual emissions - SEFA) - ((carbon price paid * actual emissions)/price per CBAM certificate)] * price per CBAM certificate
+
+CBAM cost curve
+
+120
+
+102
+
+100
+
+90
+
+80
+
+The application of this adjusted methodology resulted in a substantially lower estimated CBAM liability — approximately €100 per ton. This reduction highlights the material impact of SEFA in moderating the effective carbon cost exposure of exporters. It further underscores the importance of
+
+60
+
+30
+
+40
+
+C B A M
+
+20
+
+0 0.5 1 1.5 2
+
+Emission intensity (tCO2 per ton of production)
+
+CCTS‑anchored carbon pricing, revenue retention and competitiveness (2026–2030) As of January 2026, India has entered a phase where carbon policy is no longer anticipatory but operational and trade‑relevant. Domestic regulation (via the Carbon Credit Trading Scheme, CCTS), external trade conditionality (via the EU’s Carbon Border Adjustment Mechanism, CBAM) and international carbon‑market architecture (via Article 6) are converging to reshape industrial strategy, finance and supply‑chain governance. The key question is no longer whether Indian firms will face carbon constraints, but where the carbon price is paid, who retains the revenue and how adjustment costs are managed. The empirical results from different studies indicate that CBAM’s adverse effects on India are driven less by large, economy ‑wide output losses and more by three channels:
+
+This framing changes the policy logic: the most structurally appropriate response is not short‑term relief or sector‑specific subsidies alone, but a domestically governed carbon pricing mechanism that (a) internalizes carbon costs within India, (b) retains revenues domestically, and (c) uses those revenues to manage competitiveness and welfare impacts. The CCTS, notified in 2024 and under phased implementation, is designed as a compliance‑based carbon market for emissions‑intensive sectors (iron and steel, cement, aluminum, fertilizers, electricity). This sectoral overlap with CBAM is strategically critical: the study finds India’s CBAM exposure is concentrated precisely in these sectors through EU export contraction, higher production costs and downstream price effects. By embedding carbon pricing at the point of production — within the same sectors that CBAM targets — CCTS allows India to shift the locus of carbon cost internalization from a foreign border adjustment to a domestic, rules‑based system. In strategic terms, this converts CBAM from a unilateral external constraint into a domestically managed price signal aligned with industrial transition planning. [12] CBAM’s most economically consequential effect for India is carbon‑revenue outflow to the EU, which weakens domestic demand, amplifies household welfare losses and reduces fiscal space for transition support. A CCTS‑anchored domestic carbon price directly reverses this mechanism: carbon revenues — particularly from auctioning carbon credits — remain within India’s fiscal system.
+
+## India’s strategic 05 response to CBAM
+
+Trade competitiveness pressures in EU‑bound value chains.
+
+Distributional effects on households (notably through price and income linkages).
+
+Fiscal leakage, i.e., carbon‑pricing revenues accruing outside India, which limits domestic capacity to cushion adjustment.
+
+01
+
+02
+
+03
+
+Crucially, this is not achieved through ad‑hoc rebates or episodic fiscal interventions, but through institutional credibility, robust MRV and predictable regulatory design — features that also help Indian exporters meet CBAM’s data and verification requirements. CBAM affects only EU‑bound goods. The study also points to broader structural shifts — reduced fossil‑fuel‑based activity and increased renewable‑linked activity — as CBAM reshapes incentives. A domestic carbon price via CCTS amplifies and generalizes these signals across the domestic market within covered sectors, accelerating:
+
+This alignment establishes that India’s response is not simply a narrow trade‑compliance exercise, but a strategic initiative for long‑term industrial transformation strategy. [5] Embedding domestic carbon pricing in CCTS preserves policy sovereignty: India retains control over price discovery, thresholds, benchmarks, timelines and — most importantly — revenue allocation. This enables climate action to be calibrated to national development priorities and distributional realities while also responding credibly to international climate‑trade regimes. Strategically, it allows India to engage CBAM and Article 6 on more equal terms, rather than being positioned as a passive rule‑taker.
+
+Strategic revenue recycling becomes the fulcrum of mitigation:
+
+In other words, CCTS turns carbon pricing from an externally imposed payment into a domestic fiscal tool — one capable of funding the very adjustments CBAM compels. CCTS provides a practical mechanism for targeted redistribution — using carbon revenues to offset regressive effects and protect vulnerable groups — thereby reframing carbon pricing as socially managed transition policy rather than a pure compliance burden. From a trade‑strategy perspective, a domestic carbon price anchored in a transparent, compliance‑oriented market strengthens India’s position vis‑à‑vis CBAM’s logic of recognizing an “effectively paid” carbon price. While EU recognition remains discretionary, a credible domestic system improves India’s ability to argue for equivalence and may reduce effective CBAM liabilities — moderating the export contraction identified in the study. [13]
+
+Household compensation to neutralize welfare losses (especially where cost pass‑through affects consumption baskets). Time‑bound transition support for emissions‑intensive firms (to prevent abrupt competitiveness shocks and disorderly adjustment). Capital deepening in clean technologies (energy efficiency, electrification, fuel switching, process innovation), strengthening long‑run productivity and resilience.
+
+Fuel switching (coal renewables/ gas where relevant/ green hydrogen).
+
+Energy efficiency and process optimization.
+
+Technological upgrading at scale (rather than only for export lines).
+
+Although the EU Carbon Border Adjustment Mechanism (CBAM) is primarily framed as a trade restrictive climate instrument, its effects across India’s metals and mining sectors — steel, aluminum and cement — also create pathways for revenue growth through strategic reorientation. Across all three sectors, CBAM exposes legacy export patterns characterized by high dependence on the EU market, limited price pass through capacity and insufficient differentiation on carbon performance. By monetizing embedded emissions at the border, CBAM alters relative price signals and incentivizes Indian producers to reassess destination markets, product mix and carbon intensity as determinants of revenue realization rather than compliance costs alone. In steel, empirical export data indicate that diversification away from concentrated EU destinations toward selected markets in Africa, Latin America and West Asia can yield higher unit revenues even before accounting for avoided CBAM certificate costs. Average realized export prices for flat rolled steel products in several non EU markets exceeded EU prices during FY 2022–23, implying that CBAM induced diversification can function as a revenue enhancing strategy rather than a defensive response. Similar dynamics are emerging in aluminum, where renewable linked smelting, secondary aluminum and verified low carbon production enable access to sustainability sensitive demand segments with superior price realization. Cement, while smaller in absolute EU export volumes, faces acute margin sensitivity; here, CBAM strengthens the business case for prioritizing blended cements, low clinker products and selective market participation to preserve revenue per ton rather than volumes alone. Across sectors, the common revenue lever lies in carbon differentiation. CBAM effectively rewards producers that
+
+can demonstrate lower embedded emissions through verified data, enabling either price premiums, sustained EU market access, or redeployment of volumes to markets with stronger near term demand growth and fewer carbon border constraints. Complementary macro factors — including demand growth in emerging economies, moderation in competing supply (notably China in steel) and favorable currency movements — further reinforce the revenue upside from rebalancing export portfolios. In this sense, CBAM accelerates a shift from volume led export growth toward value and carbon intensity adjusted revenue strategies across India’s metals and mining sectors. [8] CBAM does not merely redistribute compliance costs; it reshapes revenue architecture. Firms that integrate export diversification, low carbon production pathways and credible MRV systems are better positioned to convert CBAM pressure into higher unit revenues, improved margin resilience and access to premium market segments. For India’s steel, aluminum and cement industries alike, revenue growth under CBAM conditions is increasingly tied to strategic repositioning rather than market withdrawal.
+
+CBAM: An
+
+## opportunity for 06 revenue growth
+
+#### Conclusion
+
+This paper demonstrates that the EU’s Carbon Border Adjustment Mechanism (CBAM) represents a fundamental reconfiguration of how climate policy, trade and industrial competitiveness interact. For India, CBAM’s principal challenge lies not in economy‑wide output losses, which remain modest, but in sector‑specific competitiveness pressures, distributional impacts and the risk of carbon‑pricing revenues accruing outside the domestic economy. These effects are most pronounced in emissions‑intensive metals and mining sectors that combine high carbon intensity with strong EU export exposure.
+
+However, the analysis also shows that CBAM is not unambiguously punitive. When viewed through a revenue and structural‑adjustment lens, CBAM accelerates shifts that are already economically and environmentally desirable: export diversification, cleaner production technologies, circular material flows and transparent emissions governance. Firms and sectors that can credibly demonstrate lower embedded emissions are increasingly positioned to secure price premiums, maintain access to sustainability‑sensitive markets and improve long‑term margin stability.
+
+India’s emerging CCTS provides a strategic instrument to manage this transition on domestic terms. By shifting carbon cost internalization from the EU border to the point of production, CCTS enables revenue retention, targeted redistribution and planned industrial upgrading. More importantly, it preserves policy sovereignty over carbon pricing design while strengthening India’s negotiating position in climate‑trade forums. Ultimately, CBAM should be understood not as a temporary trade shock, but as an enduring feature of the global low‑carbon transition — one that requires coordinated industrial policy, credible MRV systems and deliberate revenue recycling to enable competitiveness, equity and sustainability.
+
+References:
+
+[1] [2] - International Energy Agency (IEA), Global Energy Review 2025, Global Energy Review 2025 Retrieved from 
+www.iea.org. 
+Figures: [1] Global energy related CO2 emissions and their annual change, 1990 -2024, [2] Change in CO2 emissions 
+from fuel combustion and avoided emissions from deployment of selected clean technologies, 2019 -2024, 
+[3] India’s path to net zero: a work in progress | British Safety Council India 
+[4] ScienceDirect - Assessing Susceptibility of India’s EITE Industries (2025) 
+[5] Assessing the Distributional Implications of the EU’s CBAM on India: A CGE Analysis - CSEP 
+[6] CBAM already hurting India’s exports to EU: GTRI - Economy News | The Financial Express 
+[7] Between India and the EU, a carbon gap and an FTA bridge – India -EU Trade Council 
+[8] Ministry of Steel (MoSPI) - Market Diversification Opportunity Report (Aug 2024) 
+[9] CEEW - EU Carbon Border Adjustment Mechanism Report (Oct 2025) 
+[10] ICRA - CBAM Analysis on Primary Aluminum Producers (April 2024) 
+[11] Business World - India’s Aluminum Green Transition (Jan 2026) 
+[12] The Impact of the EU’s CBAM on Indian Exports | Oren 
+[13] EU Carbon Credit Integration: What It Means for India’s Climate and Trade Future - Modern Diplomacy 
+
+Head office Branch offices 
+Head Office ICC Towers, 4 India Exchange Place, Kolkata -700001 
+Contact: 033 -22534200, Fax 033 -22534303, Email: ceo@ 
+indianchamber.net 
+Delhi 
+Northern Regional Office 807, Kailash Building, 26 Kasturba 
+Gandhi Marg New Delhi – 110001 Contact No: 011 -46101431, 
+011 -46101432, 011 -41550734, 011 -46101435, 011 
+46101436, 011 -46101437, 011 -46101440 Email: debmalya. 
+banerjee@indianchamber.net 
+Mumbai 
+Western Regional Office Kanakia Zillion, H Wing, Unit No.535, 
+LBS Marg, Kurla (W), Mumbai 400 070 
+Contact: 022 -6127 7443, 022 -35141001, +91 -7304458711 
+Email: ratheesh.nair@indianchamber.net 
+Chennai 
+Tamil Nadu State Office 3rd Floor 92, East Coast Chambers, 
+GN Chetty Rd, T. Nagar, 600017, Contact: UDAYAKUMAR. P 
+Email: udayakumar.p@indianchamber.net 
+Mobile: +91 8946011681 
+Rajasthan 
+Rajasthan State Office, Jaipur Branch, Sumit Sehrawat, Jayshree 
+Periwal International School, Senior Block, Mahapura Rd, 
+Narayan -Y -Block, Mahapura, Bhankrota, Rajasthan - 302026, 
+Contact: SUMIT SEHRAWAT, Mobile: +91 - 8467077007, 
+Email: sumit.sehrawat@indianchamber.net 
+Hyderabad 
+Telangana State Office TSR Towers,6 -3 -1090,"B" -Block Ground 
+Floor, Raj Bhavan Road Telangana – 500 082 
+Contact: +91 -40 -48570787 
+Guwahati 
+North East Regional Office Kushan Plaza, 1st Floor, Above 
+Hyundai Showroom, Opp. Ganeshguri Petrol Pump Near Hanuman 
+Mandir, Guwahati – 781006 Contact: - 0361 - 2232716/2232767 
+Email: ishantor.sobhapandit@indianchamber.net 
+Agartala 
+Agartala Office Department of Industry and Commerce Khejur 
+Bagan Kunjaban 6, Near Ginger Hotel Agartala, Tripura (West) 
+Contact: +91 -8860128904 Email: sujit.das@indianchamber.net 
+Ranchi 
+Jharkhand State Office Indian Chamber of Commerce 181 C, 
+Road No. 4 Ashok Nagar Ranchi – 834002, Jharkhand. 
+Contact: SANTOSH KUMAR, Mobile: +91 9576922877 
+Email: santosh.kumar@indianchamber.net 
+Patna 
+Patna State Office -1st Floor, Indira Bhawan, RCS Path, Bailey Rd, 
+Patna, Bihar - 800001, Contact: Mr. Avinash Roy, 
+Mobile: +91 9576922877 
+Email: - avinash.roy@indianchamber.net 
+Bhubaneswar 
+Odisha State Office BDA -HIG 23 Opposite of Pal Heights (Behind 
+Aditya Birla Building) Jaydev Vihar, Bhubaneswar - 751 013, 
+Odisha. Contact: 0674 -2303326/28/29, 0674 -2303327 
+(Telefax), Email: jyotiprakash.pal@indianchamber.net 
+Siliguri 
+Siliguri Office, "Radha Apartments", 2nd Floor ISKCON Mandir 
+Road, Siliguri - 734001, Contact: BIVEK SASHANKAR, 
+Mobile: +91 -7029222485, 
+Email: bivek.sashankar@indianchamber.net 
+
+About Indian Chamber of Commerce (ICC)
+
+In the heart of the world’s largest democracy, ICC stands as a beacon of economic progress, collaboration, and prosperity. As one of the oldest trade associations in the country, it was founded in 1925 by pioneering Indian industrialists based in Kolkata in pre -independent India, led by the visionary leader Mr. Ghanshyam Das Birla. The early years of the Chamber’s history show its dedicated commitment to the progressive modernization of domestic trade, commerce, and industry. Today, as the world increasingly becomes economically integrated, ICC’s efforts have been focused into building a competitive industrial base that can take on the best in the world on equal terms. It has evolved into an illustrious institution that fuels the dreams of visionaries, nurtures entrepreneurship, and shapes the economic destiny of a resurgent India. Presently ICC has 12 Offices across India and 25 International Representative Offices globally. This glorious year, ICC has stepped into its Centenary Year. The Indian Chamber of Commerce headquartered in Kolkata, over the years ICC has truly emerged as a national Chamber of repute, with full -fledged offices in New Delhi, Kolkata, Mumbai, Chennai, Jaipur, Patna, Ranchi, Siliguri, Hyderabad, Bhubaneswar, Guwahati & Agartala functioning efficiently, and building meaningful synergies among Industry and Government by addressing strategic issues of national significance.
+
+Presence of ICC
+
+Domestic presence: ICC has countrywide presence in India, including Kolkata, Mumbai, Delhi, Chennai, Jaipur, Hyderabad, Bhubaneswar, Siliguri, Patna, Ranchi, Guwahati, Agartala, and its presence continues to expand. International Presence: ICC has 25 offices in foreign countries that includes Argentina, Austria, Brazil, Canada Chile, France, Germany, Greece, Indonesia, Italy, Kuwait, Mauritius, Mexico, New Zealand, Peru, Romania, Saudi Arabia, South Korea, Switzerland, UAE, UK, USA(East & West Coast) & Vietnam.
+
+NOTES
+
+NOTES
+
+NOTES
+
+Ahmedabad 
+22nd Floor, B Wing, Privilon 
+Ambli BRT Road, Behind Iskcon Temple 
+Off SG Highway, Ahmedabad - 380 059 
+Tel: + 91 79 6608 3800 
+Gandhinagar 
+8th Floor, Building No. 14A 
+Block 14, Zone 1 
+Brigade International Financial Centre 
+GIFT City SEZ 
+Gandhinagar – 382 355, Gujarat 
+Tel: + 91 79 6608 3800 
+Bengaluru 
+12th & 13th Floor 
+“UB City”, Canberra Block 
+No.24 Vittal Mallya Road 
+Bengaluru - 560 001 
+Tel: + 91 80 6727 5000 
+Ground & 1st Floor 
+# 11, ‘A’ wing 
+Divyasree Chambers 
+Langford Town 
+Bengaluru - 560 025 
+Tel: + 91 80 6727 5000 
+3rd & 4th Floor 
+MARKSQUARE 
+#61, St. Mark’s Road 
+Shantala Nagar 
+Bengaluru - 560 001 
+Tel: + 91 80 6727 5000 
+1st & 8th Floor, Tower A 
+Prestige Shantiniketan 
+Mahadevapura Post 
+Whitefield, Bengaluru - 560 048 
+Tel: + 91 80 6727 5000 
+Ecospace 
+1st Floor, Campus 1C 
+Ecospace Business Park 
+Outer Ring Road, Bellandur - Sarjapura 
+Area, Varthur Hobli, 
+Bengaluru Urban – 560103 
+Bhubaneswar 
+8th Floor, O -Hub, Tower A 
+Chandaka SEZ, Bhubaneswar 
+Odisha – 751024 
+Tel: + 91 674 274 4490 
+Chandigarh 
+Elante offices, Unit No. B -613 & 614 
+6th Floor, Plot No - 178 -178A 
+Industrial & Business Park, Phase -I 
+Chandigarh - 160 002 
+Tel: + 91 172 6717800 
+Chennai 
+6th & 7th Floor, A Block, 
+Tidel Park, No.4, Rajiv Gandhi Salai 
+Taramani, Chennai - 600 113 
+Tel: + 91 44 6654 8100 
+Delhi NCR 
+Aikyam 
+Ground Floor 
+67, Institutional Area 
+Sector 44, Gurugram - 122 003 
+Haryana 
+Tel: + 91 124 443 4000 
+3rd & 6th Floor, Worldmark -1 
+IGI Airport Hospitality District 
+Aerocity, New Delhi - 110 037 
+Tel: + 91 11 4731 8000 
+4th & 5th Floor, Plot No 2B 
+Tower 2, Sector 126 
+Gautam Budh Nagar, U.P. 
+Noida - 201 304 
+Tel: + 91 120 671 7000 
+Hyderabad 
+THE SKYVIEW 10 
+18th Floor, “SOUTH LOBBY” 
+Survey No 83/1, Raidurgam 
+Hyderabad - 500 032 
+Tel: + 91 40 6736 2000 
+THE SKYVIEW 20 
+2nd Floor, 201 & 202 
+Right Wing, Survey No 83/1 
+Raidurgam, Hyderabad - 500 032 
+Tel: + 91 40 6736 2000 
+Jaipur 
+9th Floor, Jewel of India 
+Horizon Tower, JLN Marg 
+Opp Jaipur Stock Exchange 
+Jaipur, Rajasthan - 302018 
+Kochi 
+9th Floor, ABAD Nucleus 
+NH -49, Maradu PO 
+Kochi - 682 304 
+Tel: + 91 484 433 4000 
+Kolkata 
+22 Camac Street 
+3rd Floor, Block ‘C’ 
+Kolkata - 700 016 
+Tel: + 91 33 6615 3400 
+6th floor, Sector V, Building Omega 
+Bengal Intelligent Park, Salt Lake 
+Electronics Complex, Bidhan Nagar 
+Kolkata - 700 091 
+Tel: + 91 33 6615 3400 
+Mumbai 
+14th Floor, The Ruby 
+29 Senapati Bapat Marg 
+Dadar (W), Mumbai - 400 028 
+Tel: + 91 22 6192 0000 
+5th Floor, Block B -2 
+Nirlon Knowledge Park 
+Off. Western Express Highway 
+Goregaon (E) 
+Mumbai - 400 063 
+Tel: + 91 22 6192 0000 
+3rd Floor, Unit No.301 
+Building No.1, Mindspace -Gigaplex 
+IT Park, MIDC, Plot No. IT -5 
+Airoli Knowledge Park 
+Airoli West, Navi Mumbai - 400 708 
+Tel: + 91 22 6192 0003 
+18th Floor, Altimus 
+Pandurang Budhkar Marg, Worli 
+Mumbai - 400 018 
+Tel: + 91 22 6192 0503 
+Pune 
+C -401, 4th Floor 
+Panchshil Tech Park, Yerwada 
+(Near Don Bosco School) 
+Pune - 411 006 
+Tel: + 91 20 4912 6000 
+10th Floor, Smartworks 
+M -Agile, Pan Card Club Road 
+Baner, Pune - 411 045 
+Tel: + 91 20 4912 6800 
+
+Our offices
+
+EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets. Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow. EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi -disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.
+
+All in to shape the future with confidence.
+
+EY refers to the global organization, and may refer to one or more, of the member firms of Ernst & Young Global Limited, each of which is a separate legal entity. Ernst & Young Global Limited, a UK company limited by guarantee, does not provide services to clients. Information about how EY collects and uses personal data and a description of the rights individuals have under data protection legislation are available via ey.com/privacy. EYG member firms do not practice law where prohibited by local laws. For more information about our organization, please visit ey.com.
+
+Ernst & Young LLP is one of the Indian client serving member firms of EYGM Limited. For more information about our organization, please visit www.ey.com/en_in. Ernst & Young LLP is a Limited Liability Partnership, registered under the Limited Liability Partnership Act, 2008 in India, having its registered office at Ground Floor, Plot No. 67, Institutional Area, Sector - 44, Gurugram, Haryana - 122 003, India. ©2026 Ernst & Young LLP. Published in India. All Rights Reserved.
+
+EYIN2603 -005 ED None This publication contains information in summary form and is therefore intended for general guidance only. It is not intended to be a substitute for detailed research or the exercise of professional judgment. Neither EYGM Limited nor any other member of the global Ernst & Young organization can accept any responsibility for loss occasioned to any person acting or refraining from action as a result of any material in this publication. On any specific matter, reference should be made to the appropriate advisor.
+
+Ernst & Young LLP EY | Building a better working world
+
+ey.com/en_in
+
+EY_India EY EY India EY Careers India ey_india
+

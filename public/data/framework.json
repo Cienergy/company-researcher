@@ -1,0 +1,120 @@
+{
+  "updatedAt": "2026-10-07T06:27:34.354Z",
+  "title": "How to read companies for pellet / CBG sales",
+  "sources": [
+    {
+      "title": "EY — CCTS: Accelerating the path to decarbonization (2026)",
+      "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/documents/2026/ey-ccts-accelerating-the-path-to-decarbonization.pdf"
+    },
+    {
+      "title": "EY — Carbon pricing meets raw materials: CBAM’s impact on Indian industries (2026)",
+      "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/climate-change-sustainability-services/documents/2026/ey-carbon-pricing-meets-raw-materials-cabms-impact-on-indian-industries.pdf"
+    },
+    {
+      "title": "CCTS + CBAM Targeting Summary v7 (internal workbook)",
+      "url": "../pellet-trade-platform/data/cbam-export-exposure/CCTS_CBAM_Targeting_Summary_v7.xlsx"
+    }
+  ],
+  "headline": "India’s carbon market (CCTS) and Europe’s border carbon tax (CBAM) push factories to cut intensity. Many will need cleaner fuels or a decarbonization partner — not just carbon credits.",
+  "takeaways": [
+    "Start with the company story: Net Zero plans, ESG spend, biomass already in use, and whether they sell to Europe.",
+    "Green credits in BRSR are often Nil. Do not lead with “we sell carbon credits.” Lead with reliable fuel that cuts coal use.",
+    "Steel and aluminium face the strongest Europe pressure. Cement and pulp & paper are natural biomass buyers.",
+    "The targeting workbook has researched ESG / carbon profiles for 113 company groups — use those first.",
+    "Price vs coal matters, but missed biomass supply has already hurt some emitters’ targets. Continuity wins deals."
+  ],
+  "sectors": [
+    {
+      "sector": "Iron & Steel",
+      "cctsFocus": "Steel plants are under draft carbon intensity targets. Falling short can mean buying expensive carbon certificates later.",
+      "cbamFocus": "Steel is India’s biggest CBAM risk. Selling to Europe gets harder if plant carbon intensity stays high.",
+      "levers": [
+        "Use energy more efficiently",
+        "Buy renewable power",
+        "Use more scrap / EAF",
+        "Try gas or hydrogen in ironmaking (longer term)",
+        "Mix biomass or biochar into captive power and some iron processes"
+      ],
+      "partnerAngle": "Best near-term offer: steady pellets or briquettes for captive power, priced against coal. Europe-facing mills also care about proof of lower intensity."
+    },
+    {
+      "sector": "Aluminium",
+      "cctsFocus": "Smelters and refineries already have final carbon targets. Missing them means certificate costs.",
+      "cbamFocus": "Aluminium metal sold to Europe faces CBAM. Coal power at the plant makes the carbon number look worse.",
+      "levers": [
+        "Round-the-clock renewable power",
+        "Biomass co-firing in captive power",
+        "Switch some fuel to gas",
+        "Energy efficiency"
+      ],
+      "partnerAngle": "Strong pellet/briquette fit for captive power. Long-term supply deals matter as much as price."
+    },
+    {
+      "sector": "Cement",
+      "cctsFocus": "Cement (including grinding) has final targets. Alternative fuels are a normal lever.",
+      "cbamFocus": "Cement/clinker exports to Europe can face CBAM. India volumes are smaller than steel.",
+      "levers": [
+        "Alternative fuels (AFR / biomass) in kilns",
+        "Lower clinker factor",
+        "Waste heat recovery",
+        "Renewable power"
+      ],
+      "partnerAngle": "Pitch consistent kiln fuel quality and reliable plant deliveries."
+    },
+    {
+      "sector": "Chlor-Alkali",
+      "cctsFocus": "Final targets. Power cost and renewable PPAs matter more than biomass for many sites.",
+      "cbamFocus": "Mostly outside core CBAM metal/cement lists.",
+      "levers": [
+        "Renewable power",
+        "Energy efficiency",
+        "Fuel switch where coal boilers exist"
+      ],
+      "partnerAngle": "Look for sites with coal boilers; otherwise treat as a longer-cycle partner."
+    },
+    {
+      "sector": "Pulp & Paper",
+      "cctsFocus": "Final targets. Biomass for steam is a core lever.",
+      "cbamFocus": "Outside CBAM Annex I.",
+      "levers": [
+        "Biomass for steam",
+        "Energy efficiency"
+      ],
+      "partnerAngle": "Natural buyer of pellets/briquettes for boilers — supply continuity is critical."
+    },
+    {
+      "sector": "Textile",
+      "cctsFocus": "Final targets from 2026-27. Cleaner heat and renewable power help compliance.",
+      "cbamFocus": "Outside CBAM Annex I.",
+      "levers": [
+        "Renewable power",
+        "Biomass boilers",
+        "Process heat efficiency"
+      ],
+      "partnerAngle": "Often price-sensitive mid-size buyers; carbon rules still create pull for cleaner heat."
+    },
+    {
+      "sector": "Petroleum Refinery",
+      "cctsFocus": "Final targets. Decarbonization leans on electrification, alternate fuels, and CCUS.",
+      "cbamFocus": "Refined products mostly outside CBAM (hydrogen can be an exception).",
+      "levers": [
+        "Electrification",
+        "Alternate fuels",
+        "Energy efficiency",
+        "CCUS"
+      ],
+      "partnerAngle": "Harder agro-pellet fit; CBG or gas partnerships may be more relevant."
+    },
+    {
+      "sector": "Petrochemicals",
+      "cctsFocus": "Final targets for crackers.",
+      "cbamFocus": "Outside CBAM Annex I.",
+      "levers": [
+        "Energy efficiency",
+        "Electrification",
+        "Alternate fuels"
+      ],
+      "partnerAngle": "Selective thermal substitution — longer sales cycle."
+    }
+  ]
+}

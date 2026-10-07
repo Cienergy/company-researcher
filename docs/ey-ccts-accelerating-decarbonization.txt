@@ -1,0 +1,3610 @@
+Strategy realised
+
+CCTS: Accelerating the path to decarbonization
+
+January 2026
+
+## Table of contents
+
+Executive summary
+
+01
+
+04
+
+Carbon market
+
+02
+
+14
+
+Sectoral decarbonization
+
+03
+
+20
+
+Recommendations
+
+04
+
+62
+
+##### Executive 1 summary
+
+The initial CCTS targets are foundational, signaling the importance of proactive decarbonization by industry
+
+*Carbon prices refer to cost of purchasing certificates/carbon credits Source: EY-Parthenon Analysis
+
+With industry 
+emissions trailing 
+Science Based 
+Target Initiatives 
+(SBTi) and net zero 
+benchmark 
+trajectories, CCTS 
+regulations are likely 
+to tighten, 
+underscoring the 
+need for immediate 
+decarbonization 
+action. 
+
+Market-based emission reduction scheme
+
+India's Carbon Credit Trading Scheme (CCTS) is a market-based emission scheme that incentivizes emission reductions and operates through a two-tiered approach:  Mandatory compliance mechanisms (which include mandatory targets for designated sectors)  A voluntary offset mechanism (which enables emitters to buy credits to balance their emissions voluntarily) Designated sectors: Cement, aluminum, chlor-alkali, paper and pulp, iron and steel, refineries, textiles, petrochemicals, fertilizers
+
+Initial targets are modest but foundational
+
+For the compliance period 2025-2027, the overall greenhouse gas 
+emissions intensity (GEI) reduction targets are as follows: 
+ Cement: 2% to 6% 
+ Aluminum: 4% to 7% 
+ Chlor-Alkali: 6% to 9% 
+ Paper and pulp: 4% to 9% 
+ Iron and steel: 4% to 6% 
+ Refineries: 2% to 6% 
+ Textiles: 4% to 12% 
+ Petrochemicals: 5% 
+
+Initially modest, the financial burden of the CCTS could escalate sharply, affecting company revenues in the long run
+
+Due to forthcoming technological advancements, the expenses associated with decarbonization initiatives are expected to decrease; however, the carbon prices* required to comply with the CCTS are anticipated to rise significantly in the near future.
+
+Early compliance is essential
+
+Early decarbonization under the CCTS provides benefits, including improved energy and operational efficiency, resulting in cost savings, besides mitigating the risk of escalating penalties. Cost-intensive initiatives such as carbon capture, green fuels and low carbon technological shifts will be necessary to meet stringent CCTS benchmarks in the future and to achieve net zero goals for companies.
+
+*Carbon prices refer to cost of purchasing certificates/carbon credits Source: EY-Parthenon Analysis
+
+Strategic decarbonization pathways for India’s cement sector: Carbon capture and energy efficiency measures are the primary levers for emission reduction and financial optimization
+
+Market and capacity dynamics 1
+
+ Moderate growth in cement production  Cement production in India has grown from 337 MMT (million metric ton) in 2019 to 433 MMT in 2024, with a CAGR of 3.8%.  Despite this, capacity utilization has remained flat at 65%-69%, indicating structural inefficiencies or overcapacity.
+
+Recommendations
+
+Regulatory and financial implications 2  Emerging compliance risks  A prominent company faces a potential emission gap of up to 82% by 2040 when benchmarked against Accelerated Decarbonization and SBTi targets.  Financial exposure to carbon penalties  Non-alignment with decarbonization pathways could result in INR314-320 crore under CCTS penalties for the company by 2030.
+
+Strategic technology and investment levers 3
+
+ Decarbonization as a Strategic 
+Differentiator 
+ Early adopters of technologies like RE, 
+CCUS can position themselves as climate 
+leaders 
+ Cost Mitigation through Energy Efficiency 
+ Energy efficiency remains a cost-saving 
+lever while supporting emissions reduction 
+goals 
+
+4 Future cost of inaction  Declining cost of abatement  By abating emissions at a cost lower than the carbon price, the cement industry may realize significant cost savings between 2032 and 2035, by overcoming the higher costs tied to carbon prices.  Carbon prices are expected to become more expensive, making internal decarbonization efforts more economically viable in the long term.
+
+Accelerate transition plans 
+Companies should align with SBTi or accelerated decarbonization pathways to avoid future liabilities and capitalize 
+on ESG opportunities. 
+
+Invest in key levers Prioritize carbon capture technologies, which contribute to more than 50% CO2 abatement, and adopt energy efficiency measures as complementary strategies for emission reduction and financial optimization.
+
+1
+
+2
+
+Strategic decarbonization pathways for India’s aluminum sector: Renewable energy and carbon capture measures are the primary levers for achieving more than 70% CO2 abatement
+
+Market and capacity dynamics 1
+
+ Moderate growth in aluminum production  India’s primary aluminum production has seen moderate growth, increasing from 3.6 MMT to 4.2 MMT, reflecting a CAGR of 5.3%.  Exports to the EU have fallen from 30% in 2023 to 17% in 2024, indicating the effects of carbon pricing under the CBAM.
+
+Regulatory and Financial Implications 2  Emerging compliance risks  An Indian conglomerate would have an emission differential of 10% by 2030 if compared with CCTS targets.  Financial exposure to carbon penalties  Non-alignment with decarbonization pathways could result in ~INR1179-1185 crore under CCTS penalties for the company by 2030
+
+Strategic technology and Investment levers 3
+
+ Decarbonization as a strategic differentiator  Early adopters of technologies like RE and alternate fuels can position themselves as climate leaders.  Energy efficiency measures like waste heat recovery, alumina efficiency are cost saving measures along with emission reduction strategies.
+
+4 Future cost of inaction  Declining cost of abatement  By abating emissions at a cost lower than the carbon price, the aluminum industry may realize significant cost savings between 2037 and 2040 by overcoming the higher costs tied to carbon prices.  Carbon prices are expected to become more expensive, making internal decarbonization efforts more economically viable in the long term.
+
+Accelerate transition plans to avoid CBAM and CCTS impact 
+Compliance with SBTi and accelerated decarbonization are essential, as the financial impact of the CBAM on 
+India’s aluminum sector is anticipated to be significant. 
+Invest in key levers 
+Prioritize renewable energy and carbon capture technologies as dual strategies for emission reduction, targeting 
+by ~53% and ~21% in primary aluminum. 
+
+Recommendations
+
+1
+
+2
+
+Strategic decarbonization pathways for India’s chlor-alkali sector: Renewable energy and energy efficiency measures are the primary levers for achieving up to 60% CO2 abatement
+
+Market and capacity dynamics 1
+
+ Moderate growth in caustic soda production  India’s caustic soda production has seen moderate growth, increasing from 3.5 MMT to 4.6 MMT, reflecting a CAGR of 6.2% and at a capacity utilization of ~80%.  The production of chlorine during 2023-24 was 40.87 lakh MMT, compared to 39.63 lakh MMT in 2022-23, an increase of 3.1%.  Exports of caustic soda reached 465 KT in 2023-24, while imports have significantly decreased over the years, totaling 221 KT.
+
+Regulatory and Financial Implications 2
+
+ Emerging compliance risks 
+ An Indian chemical manufacturing 
+company would have an emission 
+differential of 58% by 2030 and 93% by 
+2040 if compared with accelerated 
+decarbonization targets. 
+ Financial exposure to carbon penalties 
+ Non-alignment with decarbonization 
+pathways could result in INR94-100 crore 
+under CCTS penalties for the company by 
+2030. 
+
+Strategic technology and investment levers 3
+
+ Decarbonization as a strategic differentiator  Early adopters of technologies like RE and carbon capture can position themselves as climate leaders.  Intervention across digital transformation and energy efficiency measures like brine temperature control and MVR has the potential to reduce emissions and provide cost benefits.
+
+4 Future cost of inaction  Declining cost of abatement  By abating emissions at a cost lower than the carbon price, chlor-alkali sector may realize significant cost savings between 2030 and 2032 by overcoming the higher costs tied to carbon prices.  Carbon prices are expected to become more expensive, making internal decarbonization efforts more economically viable in the long term.
+
+Accelerate transition plans to avoid CBAM and CCTS impact 
+Compliance with SBTi and accelerated decarbonization are essential, as the cost of abatement is projected to drop 
+below the Indian carbon prices in the next five years. 
+Invest in key levers 
+Prioritize RE to abate half of the total emissions. Also, focus on energy efficiency measures to reduce emissions 
+by a further 15% to18%, resulting in cost savings. 
+
+Recommendations
+
+1
+
+2
+
+Strategic decarbonization pathways for India’s paper and pulp sector: Utilization of biomass for steam production, along with carbon capture measures, is essential for emission reduction
+
+1 Market and capacity dynamics  Moderate growth in the paper industry  India’s paper production has seen moderate growth, increasing from 18.9 MMT to 23.8 MMT, reflecting a CAGR of 5.8% and utilization of 88%.  Export of paper, paperboard and newsprint have increased almost three times.
+
+Regulatory and financial implications 2  Emerging compliance risks  Diversified Indian conglomerate would have an emission differential of 66% by 2030 and 96% by 2040 if compared with accelerated decarbonization targets.  Financial exposure to carbon penalties  Non-alignment with decarbonization pathways could result in ~INR23-29 crore under CCTS penalties for the company by 2030.
+
+Strategic technology and investment levers 3
+
+ Decarbonization as a strategic differentiator  Early adopters of technologies such as RE and alternate fuels can position themselves as climate leaders.  Interventions like pumping optimization, efficient rotors, heat recovery and turbo fans are crucial to abate emissions and lead to cost benefits.
+
+4 Future cost of inaction  Declining cost of abatement  By abating emissions at a cost lower than the carbon price, paper and pulp industry may realize significant cost savings between 2029 and 2031 by overcoming the higher costs tied to carbon prices.  Carbon prices are expected to become more expensive, making internal decarbonization efforts more economically viable in the long term.
+
+Accelerate transition plans to avoid CCTS impact 
+Compliance with SBTi and accelerated decarbonization are essential, as the cost of abatement is projected to drop 
+below the Indian carbon prices in next four to five years. 
+Invest in key levers 
+Prioritize usage of biomass for steam production. Further, as the cost of technology reduces, P&P industry can 
+leverage carbon capture to curb emissions. 
+
+Recommendations
+
+1
+
+2
+
+Strategic decarbonization pathways for India’s iron and steel sector: Utilization of GH2 in BF, RE, and carbon capture measures are essential for emission reduction in BF-BOF steelmaking
+
+Market and capacity dynamics 1
+
+ Tremendous growth in the iron and steel industry  India’s crude steel production has seen steady growth, increasing from 109 MMT in FY20 to 144 MMT in FY24, reflecting a CAGR of 5.72%.  Globally, India is the second-largest producer of steel and is on the path to achieving of 300 MMT installed capacity, with 255 MMT expected by FY31.
+
+Regulatory and financial implications 2  Emerging Compliance Risks  Diversified Indian conglomerate with would have an emission differential of 67% by 2030 and 96% by 2040 if compared with accelerated decarbonization targets.  Financial exposure to carbon penalties  Non-alignment with decarbonization pathways could result in ~INR3,010-3,016 crore under CCTS penalties for the company by 2030.
+
+Strategic Technology and Investment Levers 3
+
+ Decarbonization as a strategic differentiator  Early adopters of technologies like RE, carbon capture, and GH2 injection in BF can position themselves as climate leaders.  In the short term, BF-BOF players may focus on energy efficiency principles like energy monitoring, variable speed drives, heat recovery systems etc. to abate emissions, leading to cost saving.
+
+4 Future Cost of Inaction  Declining cost of abatement  By abating emissions at a cost lower than the carbon price, iron and steel industry may realize significant cost savings between 2035 and 2039 by overcoming the higher costs tied to carbon prices.  Carbon prices are expected to become more expensive, making internal decarbonization efforts more economically viable in the long term.
+
+Accelerate transition plans to avoid CBAM and CCTS impact 
+Compliance with SBTi and accelerated decarbonization are essential, as the financial impact of the CBAM on 
+India’s iron and steel sector is anticipated to be significant. 
+Invest in key levers 
+Prioritize energy efficiency measures. Further, as the cost of technology reduces, iron and steel industry can 
+leverage carbon capture to curb emissions . 
+
+1
+
+Recommendations
+
+2
+
+Strategic decarbonization pathways for India’s refinery sector: Electrification, alternate fuels and carbon capture measures are essential for emission reduction in refineries
+
+Market and capacity dynamics 1
+
+ Considerable growth in the refinery sector  India’s refinery installed capacity has seen sharp growth, increasing from 215 MMT in FY14 to 257 MMT in FY24, reflecting a growth of 19.5%.  As of date, India has 23 refineries and is ranked fourth in terms of installed refining capacity globally.
+
+Regulatory and financial implications 2
+
+ Emerging compliance risks  Diversified Indian conglomerate would have an emission differential of 58% by 2030 and 93% by 2040 if compared with accelerated decarbonization targets.  Financial exposure to carbon penalties  Non-alignment with decarbonization pathways could result in ~INR272-278 crore under CCTS penalties for the company by 2030.
+
+Strategic technology and investment levers 3
+
+ Decarbonization as a strategic differentiator  Early adopters of technologies like carbon capture and electrification can position themselves as climate leaders.  Adapting “in the money” initiatives like heat recovery, Organic Rankine cycle and RE integration leads to emission intensity reduction and cost savings.
+
+4 Future cost of inaction  Declining cost of abatement  By abating emissions at a cost lower than the carbon price, Indian refineries may realize significant cost savings between 2029 and 2033 by overcoming the higher costs tied to carbon prices.  Carbon prices are expected to become more expensive, making internal decarbonization efforts more economically viable in the long term.
+
+Accelerate transition plans to avoid CCTS impact 
+Compliance with CCTS targets and adopting accelerated decarbonization is crucial to mitigate the financial impact 
+of the CCTS on India’s refinery sector. 
+Invest in key levers 
+Prioritize RE and energy efficiency measures. Further, as the cost of technology reduces, refineries can leverage 
+carbon capture to curb emissions. 
+
+Recommendations
+
+1
+
+2
+
+Strategic decarbonization pathways for India’s textiles sector: Adoption of renewable power and biomass usage are the most crucial levers for emissions reduction in the textiles industry
+
+Market and capacity dynamics 1
+
+ Sharp growth in the textile sector  India currently has more than 3,400 textile mills installed, with domestic textile and apparel production valued around US$176 billion  The market for Indian textiles and apparel is projected to grow at a 10% CAGR to reach US$350 billion by 2030
+
+Regulatory and Financial Implications 2
+
+ Emerging compliance risks  Diversified Indian conglomerate would have an emission differential of 67% by 2030 and 96% by 2040 if compared with accelerated decarbonization targets  Financial exposure to carbon penalties  Non-alignment with decarbonization pathways could result in ~INR53-59 crore under CCTS penalties for the company by 2030.
+
+Strategic Technology and Investment Levers 3
+
+ Decarbonization as a Strategic Differentiator  RE adaption is a cost saving measure in the textile industry  Alternate fuels like biomass usage in CPP is also a cost saving initiative leading to emissions reduction
+
+4 Future Cost of Inaction  Declining cost of abatement  By abating emissions at a cost lower than the carbon price, textile industry may realize significant cost savings by overcoming the higher costs tied to carbon prices  Carbon prices are expected to become more expensive, making internal decarbonization efforts more economically viable in the long term
+
+Accelerate transition plans to avoid CCTS impact 
+Compliance with SBTi and accelerated decarbonization are essential, as the financial impact of the CCTS on India’s 
+textiles sector is anticipated to be significant. 
+Invest in key levers 
+Prioritize RE and biomass usage. Further, as the cost of technology reduces, textile industries can leverage BESS 
+to curb emissions. 
+
+1
+
+Recommendations
+
+2
+
+Strategic decarbonization pathways for India’s petrochemical sector: RE adoption and carbon capture measures are essential for achieving meaningful emission reduction
+
+Market and capacity dynamics 1
+
+ Tremendous growth prospects  India’s petrochemical production capacity is projected to increase from 29.6 MMTPA in 2024 to 46 MMTPA by 2030, reflecting a 55.4% growth.  India ranks sixth globally in chemical and petrochemical production.
+
+Regulatory and financial implications 2  Emerging compliance risks  Diversified Indian would have an emission differential of 58% by 2030 and 93% by 2040 if compared with accelerated decarbonization targets.  Financial exposure to carbon penalties  Non-alignment with decarbonization pathways could result in ~INR107-113 crore under CCTS penalties for the company by 2030.
+
+Strategic technology and investment levers 3
+
+ Decarbonization as a Strategic Differentiator  Early adopters of technologies like alternate fuels, carbon capture can position themselves as climate leaders  Energy efficiency and RE integration are the low hanging fruits serving dual benefits: emissions reduction and cost savings
+
+4 Future cost of inaction  Declining cost of abatement  By abating emissions at a cost lower than the carbon price, petrochemicals may realize significant cost savings between 2034 and 2039 by overcoming the higher costs tied to carbon prices.  Carbon prices are expected to become more expensive, making internal decarbonization efforts more economically viable in the long term.
+
+Accelerate transition plans to avoid CCTS impact 
+Compliance with CCTS targets and adopting accelerated decarbonization is crucial to mitigate the financial impact 
+of the CCTS on India’s petrochemical sector. 
+Invest in Key Levers 
+Prioritize RE and energy efficiency measures. Further, as the cost of technology reduces, leverage carbon capture 
+and green H2 to curb emissions. 
+
+1
+
+Recommendations
+
+2
+
+India’s Carbon Credit Trading Scheme established in April 2025, operates with a dual approach, combining the mandatory emission reduction targets with Voluntary carbon mechanism
+
+##### Carbon 2 markets
+
+Carbon markets overview
+
+Project owners or sellers of credits
+
+Buyers of credits: Mandatory and voluntary participants
+
+Voluntary carbon market Compliance carbon market
+
+ Compensation on business expansion  Relief from implication of climate negative action  Reputational benefits
+
+ Parallel revenue line  Finance to expand and accelerate  Sustainable development benefits
+
+High emitting participants
+
+Removals Low emitting participants
+
+Reduction/avoidance
+
+##### 1 What are carbon markets?
+
+Carbon markets are carbon pricing mechanisms that enable governments and non-state actors to trade greenhouse gas emission credits. The aim is to achieve climate targets and implement climate actions cost-effectively.
+
+##### 2 Why are they important?
+
+Developing countries need up to US$6 trillion to meet climate goals. Current funding is vastly inadequate, with the IPCC report suggesting levels that are three to six times lower than needed by 2030. Carbon markets are seen as a potential solution to finance climate action and incentivize governments and private entities to reduce their emissions.
+
+##### 3 What are various types of carbon markets?
+
+Compliance markets are created as a result of any national, regional and/or international policy or regulatory requirement.  E.g., an emission trading system that uses "cap-and-trade" where businesses or countries get emission allowances and are required to buy additional credits if they exceed their caps. Voluntary markets refer to the issuance, buying and selling of carbon credits on a voluntary basis. Source: EY-Parthenon Analysis
+
+Mechanisms of carbon markets
+
+The multiple overlaps existing between these markets feed into a variety of credit trading opportunities
+
+Voluntary mechanisms are managed by independent standards or NGOs and enable entities to voluntarily offset their emissions by purchasing carbon credits from projects that reduce or remove GHG emissions.
+
+Compliance mechanisms, such as Emissions Trading System (ETS), are typically managed by governments. They set a cap on emissions and allow entities to trade emission allowances to meet their targets.
+
+Compliance markets
+
+Market Instrument
+
+Voluntary carbon market
+
+Article 6
+
+Carbon tax CORSIA CBAM
+
+Cap and Trade
+
+ITMOs
+
+Carbon credits / VCC
+
+| | | Examples: | | | Examples: | | | Allowances | | | | | | | | CORSIA Eligible | | | | CBAM | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | |  Tanzania | | |  Ghana | | | CCTS | | | | | | | | Emissions units | | | | certificates | | |
+| | |  Australia | | |  Vanuatu | | | | | | | | | | | | | | | | | |
+| | | | | | | | | Examples: | | | | | Examples: | | | | | | | | | |
+| | | | | | | | |  | EU | | | |  | South Africa | | | | | | | | |
+| | | | | | | | |  | California | | | |  | Singapore | | | | | | | | |
+
+ India
+
+Commodity trading Green claims Taxation
+
+Legal definitions
+
+Additional 
+regulatory 
+considerations 
+
+Indian carbon market framework operates with a mix of compliance and voluntary mechanisms
+
+Compliance mechanisms in
+
+Offset mechanism to incentivize
+
+| | India which aims to address the | | | the voluntary actions from | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | | 2 | | | | | |
+| | emissions from its energy use | | | entities (not covered under | | | |
+| | and industrial sectors | | | compliance) for GHG reduction | | | |
+
+ PAT-ESCerts (Perform, Achieve and Trade  CDM (Clean Development Mechanism)
+
+Energy Saving Certificates)
+
+ Project developers can invest in projects  The PAT-ESCerts mandate designated that reduce GHG emissions, such as energy-intensive industries to improve renewable energy, energy efficiency, or
+
+energy efficiency.
+
+waste management projects, and in return, they can earn certified emission reduction  Companies that exceed their targets are
+
+(CER) credits.
+
+awarded ESCerts, which they can trade with other companies.
+
+ CERs can be sold to entities that need to meet their emission reduction targets.
+
+ RECs (Renewable Energy Certificates)
+
+ The CDM has been instrumental in  RECs help companies meet their renewable channeling investment into sustainable purchase obligations (RPOs) by allowing development projects in India.
+
+them to purchase RECs if they cannot source enough RE directly.
+
+Phase I 2022 Phase II (2023-2025) Phase III (2026-Onwards)
+
+PAT Scheme PAT Scheme transition Carbon Credit Trading
+
+Mechanism
+
+Energy Compliance Market –
+
+Energy Compliance Market –
+
+Targets in t CO2e /t and
+
+t ig
+
+Target – TOE/Ton, Trading – EScert; with optional
+
+trading in CCC conversion to CCCs
+
+l s p
+
+O m z o
+
+C
+
+Project based Offset Mechanism
+
+d
+
+(Carbon Reduction / Removal Projects and conversion of RECs, CDM) – Carbon
+
+n a
+
+Offset unit – 1 t CO2
+
+E
+
+New projects
+
+Establishing carbon offset mechanism
+
+RECs / CDM
+
+f d n b
+
+O
+
+N
+
+The offset mechanism will focus on incentivizing carbon reduction projects from
+
+e h
+
+non obligated: energy / non-energy sectors
+
+S :
+
+With the establishment of Carbon Credit Trading Scheme (CCTS) and regulatory mandates, companies will have the option to trade carbon reductions against their target GEI
+
+CCTS Compliance Mechanism
+
+Trading
+
+Platform
+
+Obligated entity A Obligated entity B
+
+G
+
+E
+
+I
+
+G
+
+E
+
+I
+
+G
+
+E
+
+I
+
+G
+
+E
+
+I
+
+Achieved GEI
+
+Sold CCCs
+
+Banked CCCs
+
+Purchased CCCs
+
+Penalty
+
+Revenue
+
+Carbon Credit Certificates
+
+(CCCs)
+
+Key aspects of CCTS  The Compliance Mechanism under the Indian Carbon
+
+Market (ICM) aims to regulate and reduce greenhouse gas (GHG) emissions through a structured framework involving targets, monitoring, verification, and trading of carbon credit certificates (CCC)
+
+ The initial set of sectors chosen under CCTS scheme
+
+are
+
+ If an obligated entity’s actual emission intensity is lower than the target, Bureau of Energy Efficiency (BEE) will issue CCCs equivalent to the difference, multiplied by the production volume.
+
+ Entities failing to achieve their GEI targets will have to purchase corresponding number of CCCs to cover the excess emissions. Penalties will be applied on failing to meet compliance obligations.
+
+Final Draft
+
+Aluminium Refinery & petrochemicals
+
+Chlor-Alkali Textiles
+
+Cement Iron and steel
+
+Pulp & Paper Aluminium  CCCs will be traded through the exchanges and the price of carbon will be dynamically decided as per the supply and demand of carbon credits.
+
+GEI: Greenhouse Gas Emissions Intensity, CCC: Carbon Credit Certificates
+
+Source: CCTS Gazette Notification, EY Analysis
+
+S :
+
+Evolution of carbon prices and projections across various
+
+geographies and India
+
+Carbon prices: Historical
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+2020 2025 2030 2035 2040 2045 2050
+
+D / t
+
+2
+
+EU (Index)
+
+UK (Index)
+
+China (Spot)
+
+South Korea (Spot)
+
+EU carbon prices: Projections
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+2025 2030 2035 2040 2045 2050
+
+D / t
+
+IEA
+
+S&P Global
+
+BNEF
+
+Shadow Cost of Carbon
+
+Refinitiv
+
+Centre of Climate and Energy
+
+CAGR
+
+IEA S&P BNEF SCOC Refinitiv CCE
+
+3.69% 5.60% 9.92% 8.65% 8.00% 10.00%
+
+Indian carbon prices: Projections
+
+40
+
+60
+
+80
+
+100
+
+2025 2030 2035 2040 2045 2050
+
+Carbon price: Optimistic scenario
+
+Carbon price: Normative scenario
+
+Carbon price: Pessimistic scenario
+
+Projections based on average CAGR
+
+Source: Wood Mackenzie, S&P Global, Refinitiv, EYP Research
+
+##### Sectoral 3 decarbonization
+
+Cement sector with total installed capacity of ~630 MMT contributes to ~20% of India’s industrial GHG emissions
+
+India’s refinery sector trend (MMTPA)
+
+##### Parameters Description
+
+632 million ton India’s total installed cement 
+capacity (FY2024) 
+~10% India’s share in global cement 
+production (2024) 
+~252.44 MMTCO2 CO2 emissions from cement 
+sector (FY2024) 
+72% PPC (blended) cement % in 
+the industry 
+
+Source: EYP Research, JMK Report, Ministry of commerce
+
+510
+
+540 540 540
+
+605
+
+632
+
+800
+
+337 337
+
+300
+
+360
+
+392
+
+433
+
+550
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+2019 2020 2021 2022 2023 2024 2028 (Exp)
+
+Installed capacity Cement production
+
+Sector highlights
+
+ The cement sector operates at a capacity utilization of 65% to 69%. 
+ As of 2024, India's share of cement exports is 2% to 3% of production capacity. 
+ India's cement industry has decreased its emissions intensity by 19.4% over the last five years, due to the use of 
+alternative materials like fly ash and slag in blended cement production. 
+ The Indian cement sector is likely to add 150-160 MMT, bringing the total installed capacity to about 782-792 
+MMT by FY2028. 
+
+CCTS targets
+
+ Sectoral reduction target  An average 2% to 6% reduction in emission intensity over the baseline during the compliance period would translate to an 8.67 MMT reduction of CO2e (assuming constant installed capacity as per FY 2023-2024) by FY27.  During the compliance period, based on the production forecast, there is a potential net increase of 31.54 MMT of CO2 e in absolute numbers.
+
+S :
+
+0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Emission scenarios with CCTS/ SBTi mandates and cost saving potential
+
+Note:
+
+. SBTi targets are aligned as per 1.5 Degree scenario with long term target of 50% emission reduction in 10 years and Net zero by 2050
+
+2. Accelerated decarbonization scenario targets 50% emission reduction by 2030 and net zero by 2040
+
+3. The Cement sector is projected to grow at 6% annually until FY 2035, after which the growth rate is expected to stabilize at 4% in the
+
+long term
+
+ The company would have to pay for the excess emissions above CCTS benchmark.
+
+ The CCTS penalty will differ as the growth rate increases and CCTS benchmark decreases if the company does not decarbonize.
+
+The company would have to pay for these emissions under the CCTS scheme in case of BAU scenario (e.g., if the company does not decarbonize).
+
+The company would have an emission differential of 51% by
+
+2030 and 85% by 2040 if compared with SBTi targets.
+
+The company would have an emission differential of 65% by 2030 and 96% by 2040 if compared with accelerated decarbonization targets.
+
+ Since the SBTi line is below CCTS emission benchmark, adherence to the same and having an accelerated decarbonization journey can help the company avoid CCTS penalties.
+
+Case study: A prominent cement company should decarbonize its assets to avoid penalties on 16% excess emissions above CCTS benchmarks
+
+T )
+
+M i l l i o n )
+
+FY24 FY30 FY35 FY40 FY45 FY50
+
+BAU scenario
+
+CCTS emission benchmark
+
+SBTi emission benchmark
+
+Accelerated decarbonization scenario
+
+CCTS impact
+
+Case study: The company is expected to incur a financial implication of ~INR314-320 crore from 2026 to 2030 due to the impact of CCTS, if no decarbonization is undertaken
+
+Sensitivity Analysis highlighting financial impact FY 26-30 (INR cr.)
+
+| Sensitivity table | Production growth scenario | No growth | Expected growth | Normative sector growth benchmark) | (cement Optimistic |
+| --- | --- | --- | --- | --- | --- |
+| CCTS industry benchmark scenario | % | 0% | 4% | 6% | 8% |
+| As-is (Present) | As per BEE Gazette | 239-245 | 287-293 | 314-320 | 343-349 |
+| Industry weighted average | Average of all plants (category wise) (in terms of GEI) | 238-244 | 286-292 | 312-318 | 341-347 |
+| Pessimistic (stricter targets) | -5% (GEI target lower Industry weighted avg) | 458-464 | 543-549 | 591-597 | 642-648 |
+| Optimistic (lenient targets) | +5% (GEI target higher than Industry weighted avg) | 18-24 | 28-34 | 33-39 | 39-45 |
+
+Insights
+
+ In the BAU scenario, taking into account no industry growth for cement, the company is projected to experience a financial impact of ~ INR314 crore from 2025 to 2030, considering the carbon price at US$10 per ton of CO2.  The costs in the table represent the cost of not decarbonizing for the company’s plants.
+
+ Assumptions:  Nine plants of the company have been considered for analysis in this table (taken directly from the GoI Gazette by BEE).  The financial impact is calculated cumulatively from 2026 to 2030. The net present value of the impact has been mentioned in the table.  A carbon price scenario with a normative pricing of US$10 has been taken into account for the analysis  Production growth scenarios have been built based on the cement sector trends in India.  The “Industry Weighted Average” for GHG emission intensity has been established based on the performance of all the companies in the particular sub-sector (PPC, OPC, grinding).  The CCTS benchmark sensitivity scenarios have been built based on +5% and -5% of the “Industry Weighted Average” intensity benchmark.
+
+Source: EY Analysis
+
+Indian cement sector has multiple pathways to decarbonization, with carbon capture emerging as the most crucial lever for CO₂ reduction; and energy efficiency measures leading to cost savings Emission Intensity (tCO2 / tCement) 0.464
+
+0.583 0.058
+
+2 )
+
+16 / t C
+
+15 $
+
+S ( U t
+
+40 n
+
+14 e m
+
+12
+
+10
+
+13
+
+11
+
+9
+
+8
+
+7
+
+6
+
+4
+
+5
+
+2 3
+
+1
+
+“In the money” initiatives
+
+Renewable energy Carbon capture
+
+Energy efficiency measures
+
+Material efficiency measures
+
+Alternate fuels
+
+“In the money” initiatives
+
+| 1. Efficient electrical equipment | 5. Optimising auxiliary power | 9. Improving burnability of material | 13. Increasing fly ash to 35% in PPC |
+| --- | --- | --- | --- |
+| 2. Waste Heat Recovery | 6. Increasing slag to 70% in PSC | 10. Burner retrofit | 14. Renewable energy use in electricity |
+| 3. Automation System | 7. Enhancement in Kiln | 11. High efficiency clinker coolers | 15. Increasing TSR to 30% in kiln fuel |
+| 4. Efficient Grinding System | 8. Heat rate reduction in CPP | 12. Substitute OPC with LC3 cement | 16. Carbon Capture |
+| | | | 17. Decreasing Clinker to 85% in OPC |
+
+Note: 1. Carbon capture costs includes capturing CO2from source, and excludes the costs of CO2 for storage/utilization. 2. Cost savings are in nominal terms
+
+Source: CEEW, EYP Analysis
+
+S :
+
+The Indian cement industry stands to gain by investing in decarbonization technologies early on, as purchasing carbon credit certificates will become expensive in the future  By abating CO2 emissions at a cost lower than the carbon price, the cement industry may realize significant cost savings by
+
+overcoming the higher costs tied to carbon prices.
+
+ In a normal scenario, it is projected that by the year 2036, the cost of decarbonization will drop below US$19/tCO2.
+
+Concurrently, carbon prices in India are expected to rise above this level.
+
+ As these technologies scale and mature in the coming years, the cost of decarbonization will continue to decline, creating
+
+stronger and faster incentives for the cement industry.
+
+Key notes:
+
+1. A carbon price scenario with a normative pricing of US$10/tCO2 in 2026 has been taken into account for the analysis.
+
+2. In pessimistic and optimistic scenarios, the carbon price starts at US$15 and US$5, respectively.
+
+3. All identified decarbonization levers are considered simultaneously to plot the blended cost of abatement in each year.
+
+Indian Cement Industry: Cost of Abatement v/s Carbon Prices
+
+Insights
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+2026 2028 2030 2032 2034 2036 2038 2040 2042 2044 2046 2048 2050
+
+S $ / t
+
+Cost of abatement
+
+Carbon price: Optimistic scenario
+
+Carbon price: Normative scenario
+
+Carbon price: Pessimistic scenario values in nominal terms
+
+Aluminum sector, with a total installed capacity of 4.2 MMT (primary), contributes to ~8% of India’s industrial GHG emissions; CCTS targets mandatory reduction of ~4.3 MMT of CO2 by FY27
+
+India’s primary aluminium production trend (MMT) Highlights  From FY2021 to FY2024, India’s aluminum production has seen moderate growth, increasing from 3.6 MMT to 4.2 MMT, reflecting a CAGR of 5.3%.  As of 2024, aluminum exports from India total around 2.45 MMT, of which 0.3 MMT is being exported to the European Union.  Exports to the EU represented 30% of India's total aluminum exports in FY2023. However, this share dropped to 17% in FY2024, indicating the expected effects of carbon pricing under the CBAM.  The aluminum sector in India accounts for 8% of the country's industrial GHG emissions, totaling 82.72 MMT CO2 e (2023).
+
+ The country recorded exports of aluminum and its related articles worth INR63,34 crore (US$7.54 billion).
+
+Parameters Description ~72 MMT Global aluminum production (2024)
+
+INR1,09,950 cr. (US$12.14 billion) Indian aluminum market size
+
+~5.5% India’s share in global 
+aluminum production (2024) 
+~73 MMTCO2 e Indian GHG emissions* 
+(FY2024) 
+
+CCTS targets
+
+ Sectoral Reduction target  An average 4-7% reduction in emission intensity over baseline during compliance period would translate to ~4.3 MMT reduction of CO2 e by FY27(assuming constant installed capacity as per FY 2023-2024)  During the compliance period, based on the production forecast, there is a potential net decrease of ~1.74 MMT of CO2 emissions
+
+3.6
+
+4.0 4.1 4.2
+
+FY 2021 FY 2022 FY 2023 FY 2024
+
+Source: EYP Research, Annual reports, Ministry of commerce *Emissions include scope 1+ scope 2
+
+Case Study: A renowned aluminum company should start decarbonizing their assets to avoid CCTS penalties on 10-
+
+14% emissions differential from BaU
+
+The company would have to pay for these emissions in CCTS scheme in case of BAU scenario (eg: if company does not decarbonize)
+
+The company would have an emission differential of 35% by 2030 and 70% by 2040 if compared with SBTi targets
+
+• The company would have to pay for the excess emissions above CCTS benchmark
+
+• The CCTS penalty will differ as the growth rate increases and CCTS benchmark decreases if the company does not decarbonize
+
+• Since the SBTi line is below CCTS emission benchmark, adherence to the same and having an accelerated decarbonization journey can help the company avoid CCTS penalties 
+The company would have an 
+emission differential of 53% by 
+2030 and 91% by 2040 if compared 
+with Accelerated Decarbonization 
+targets 
+
+Emission scenarios with CCTS/ SBTi mandates and cost saving potential
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+1,000
+
+1,100
+
+1,200
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+T )
+
+Note: 
+1. SBTi targets are aligned as per 1.5 Degree scenario with long term target of 50% emission reduction in 10 years and Net zero by 2050 
+2. Accelerated decarbonization scenario targets 50% emission reduction by 2030 and net zero by 2040 
+3. The Aluminium sector is projected to grow at 1.2% annually until FY 2035, after which the growth rate is expected to stabilize at 0.6% in 
+the long term 
+
+Source: EY-Parthenon Analysis
+
+BAU scenario 
+CCTS emission benchmark 
+SBTi emission benchmark 
+Accelerated decarbonization scenario 
+CCTS impact 
+
+FY24 FY30 FY35 FY40 FY45 FY50
+
+-91%
+
+Normative carbon pricing: The company is expected to face a financial implication of ~INR 1,179-1185 crore from 2026 to 2030 due to CCTS impact if no decarbonization is undertaken
+
+Sensitivity analysis highlighting financial impact FY 26-30 (cr.)
+
+| Sensitivity table | Production growth scenario | No growth | Pessimistic | Normative growth benchmark) | (textile Optimistic |
+| --- | --- | --- | --- | --- | --- |
+| CCTS Industry Benchmark scenario | % | 0% | 0.6% | 1.2% | 1.8% |
+| As-is (Present) | As per BEE Gazette | 1113-1119 | 1146-1152 | 1179-1185 | 1213-1219 |
+| Industry Weighted Average | Average of all plants (category wise) (in terms of GEI) | 1036-1042 | 1062-1068 | 1089-1095 | 1115-1121 |
+| Pessimistic (stricter targets) | -5% (GEI target lower Industry weighted avg) | 1362-1368 | 1395-1401 | 1429-1435 | 1464-1470 |
+| Optimistic (lenient targets) | +5% (GEI target higher than industry weighted avg) | 711-717 | 729-735 | 748-754 | 767-773 |
+
+Source: EY-Parthenon Analysis
+
+Insights
+
+ In the BAU scenario, taking into account a 1.2% industry growth rate for aluminum, the company is projected to incur 
+a financial impact of INR1,179-1,185 crore from 2026 to 2030, considering the carbon price at US$10 per ton of 
+CO2. 
+ The costs in the table represent the cost of not decarbonizing for the company plants. 
+Assumptions: 
+ Four plants of the company have been considered for analysis in this table (taken directly from the GoI Gazette by 
+BEE). 
+ The financial impact is calculated cumulatively from 2025 to 2030. The net present value of the impact has been 
+mentioned in the table. 
+ A carbon price scenario with a normative pricing of US$10 has been taken into account for the analysis. 
+ Production growth scenarios have been built basis the aluminum sector trends in India. 
+ The “Industry Weighted Average” for GHG emission intensity has been considered for scenario analysis. 
+ The CCTS benchmark sensitivity scenarios have been built basis +5% and -5% of the “Industry Weighted Average” 
+intensity benchmark. 
+
+RE is the key decarbonization lever for the Indian aluminium sector, particularly in the smelting process, with carbon capture and energy efficiency acting as other key measures
+
+18.00 Emission intensity
+
+16.41 5.29 0.09
+
+(tCO2/ ton)
+
+200 )
+
+8
+
+C t / $
+
+7
+
+U (
+
+100 t
+
+6
+
+n e
+
+5
+
+4
+
+e t a
+
+50 b
+
+0
+
+3
+
+2
+
+-100
+
+“In the money” initiatives
+
+1
+
+Energy efficiency measures
+
+Alternate fuels Renewable energy Carbon capture
+
+Source: CEEW, EYP Analysis
+
+Note: Carbon capture costs includes capturing CO2from source, and excludes the fate of captured CO2 for storage/utilization
+
+n io
+
+| 1. Alumina EE | 4. Biomass fuel switch | 7. Renewable electricity |
+| --- | --- | --- |
+| 2. Aluminium energy efficiency | 5. Inert anodes | 8. Carbon capture |
+| 3. Electrolysis off gas WHR | 6. Cell operation optimization | 9. NG fuel switch |
+
+A :
+
+S :
+
+The Indian aluminum industry may begin investing in decarbonization technologies now, as abatement costs are expected to fall below Indian carbon prices by the next
+
+decade
+
+Insights
+
+ By abating CO2 emissions at a cost lower than the carbon price, the aluminum industry may realize significant cost savings by overcoming the higher costs tied to carbon prices.
+
+ In a pessimistic scenario, it is projected that by the year 2037, the cost of decarbonization will drop below
+
+US$34/tCO2. Concurrently, carbon prices in India are expected to rise above this level.
+
+ As the technologies scale further and matures in upcoming years, the cost of decarbonization decreases further, leading to quicker incentivization for the aluminum industry.
+
+Assumptions:
+
+ A carbon price scenario with a normative pricing of US$10/tCO2 in 2026 has been taken into account for the
+
+analysis.
+
+ In pessimistic and optimistic scenarios, carbon price starts at US$15 and US$5, respectively.
+
+ All identified decarbonization levers are considered at once to plot the blended cost of abatement in each year.
+
+Indian Aluminium Industry: Cost of Abatement v/s Carbon Prices
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+2026 2028 2030 2032 2034 2036 2038 2040 2042 2044 2046 2048 2050
+
+S $ / t
+
+Cost of abatement
+
+Carbon price: Optimistic scenario
+
+Carbon price: Normative scenario
+
+Carbon price: Pessimistic scenario
+
+Source: EY-Parthenon Analysis
+
+S :
+
+Overview of the caustic soda market size, production trends, capacity and the import and export market; CCTS targets a mandatory reduction of ~0.66 MMT of CO2 by FY27
+
+India’s Caustic Soda production trend (MMT)
+
+Highlights
+
+ The caustic soda sector operates at a capacity utilization of ~80% and is growing at a CAGR of 6.2%.
+
+ Indian exports of caustic soda reached 465 KT in 2023-24, while imports have significantly decreased over the
+
+years, totaling 221 KT in the same period.
+
+ The production of chlorine during 2023-24 was 40.87 lakh MMT, compared to 39.63 lakh MMT in 2022-23, an
+
+increase of 3.1%.
+
+ India recently introduced a new environmental framework for caustic soda manufacturing, establishing emission and effluent standards to regulate hydrochloric acid emissions and limit wastewater generation, effective March 2026.
+
+CCTS targets  Sectoral reduction target
+
+ An average 6%-9% reduction in emission intensity over the baseline during the compliance period.
+
+ This would translate to ~0.66 MMT reduction of CO2 e by FY27.
+
+Parameters Description
+
+Global caustic soda production (2024) ~98 million metric ton
+
+Indian caustic soda market size INR32,000–35,000 cr (~US$3.8-4.2 billion)
+
+India’s share in global caustic soda production ~5.5%
+
+4.3 4.5 4.7
+
+5.0
+
+5.5
+
+5.8
+
+3.5 3.6 3.6
+
+4.1
+
+4.4 4.6
+
+2018-19 2019-20 2020-21 2021-22 2022-23 2023-24
+
+Installed capacity Production
+
+The company would have to pay for these emissions in CCTS scheme in case of BAU scenario (eg: if company does not decarbonize)
+
+The company would have an emission differential of 41% by 2030 and 75% by 2040 if compared with SBTi targets
+
+• The company would have to pay for the excess emissions above CCTS benchmark
+
+• The CCTS penalty will differ as the growth rate increases and CCTS benchmark decreases if the company does not decarbonize
+
+• Since the SBTi line is below CCTS emission benchmark, adherence to the same and having an accelerated decarbonization journey can help the company avoid CCTS penalties 
+
+The company would have an emission differential of 58% by 2030 and 93% by 2040 if compared with Accelerated Decarbonization targets
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+2.0
+
+2.2
+
+2.4
+
+FY24 FY30 FY35 FY40 FY45 FY50
+
+-17% -41% -58% -21%
+
+T )
+
+S $
+
+Emission scenarios with CCTS/ SBTi mandates and cost saving potential
+
+Note: 
+1. SBTi targets are aligned as per 1.5 Degree scenario with long term target of 50% emission reduction in 10 years and Net zero by 2050 
+2. Accelerated decarbonization scenario targets 50% emission reduction by 2030 and net zero by 2040 
+3. The Chlor-alkali sector is projected to grow at 3% annually until FY 2035, after which the growth rate is expected to stabilize at 1% in the 
+long term 
+
+-75% -93%
+
+BAU scenario 
+CCTS emission benchmark 
+SBTi emission benchmark 
+Accelerated decarbonization scenario 
+CCTS impact 
+
+Case Study: A leading company should start decarbonizing their assets to avoid CCTS penalties on 17-21% emissions
+
+differential from BaU
+
+Normative carbon pricing: The company is expected to incur a financial implication of ~INR 94-100 cr. from 2026 to 2030 due to the impact of CCTS
+
+Sensitivity Analysis highlighting financial impact FY 26-30 (cr.)
+
+| Sensitivity table | Production growth scenario | No growth | Pessimistic | Normative growth benchmark) | (textile Optimistic |
+| --- | --- | --- | --- | --- | --- |
+| CCTS industry benchmark scenario | % | 0% | 1% | 3% | 5% |
+| As-is (Present) | As per BEE Gazette | 81-87 | 86-92 | 94-100 | 104-110 |
+| Industry weighted average | Average of all plants (category wise) (in terms of GEI) | 104-110 | 109-115 | 118-124 | 128-134 |
+| Pessimistic (stricter targets) | -5% (GEI target lower Industry weighted avg) | 104-110 | 109-115 | 118-124 | 128-134 |
+| Optimistic (lenient targets) | +5% (GEI target higher than Industry weighted avg) | 103-109 | 108-114 | 118-124 | 127-133 |
+
+Insights
+
+ In the BAU scenario, taking into account a 3% industry growth rate for chlor-alkali, the company is projected to 
+experience a financial impact of INR94-100 crore from 2025 to 2030, considering the carbon price at US$10 per ton 
+of CO2 equivalent. 
+ The costs in the table represent the cost of not decarbonizing for the company’s plants. 
+
+Assumptions:
+
+ Two plants of the company have been considered for analysis in this table (taken directly from the GoI Gazette by 
+BEE). 
+ The financial impact is calculated cumulatively from 2026 to 2030. The net present value of the impact has been 
+mentioned in the table. 
+ A carbon price scenario with a normative pricing of US$10 has been taken into account for the analysis 
+ Production growth scenarios have been built basis the chlor-alkali sector trends in India. 
+ The “Industry Weighted Average” for GHG emission intensity has been considered for scenario analysis. 
+ The CCTS benchmark sensitivity scenarios have been built basis +5% and -5% of the “Industry Weighted Average” 
+intensity benchmark. 
+
+RE is the key decarbonization lever for the Indian Chlor
+
+Alkali sector, with energy efficiency measures acting as
+
+important abatement lever
+
+Emission intensity
+
+1.9 1.4 0.19
+
+(tCO2/ ton)
+
+7
+
+50 )
+
+C t / $
+
+6
+
+0
+
+t s o
+
+C -10 -20
+
+5
+
+3 4 -30
+
+2
+
+“in the money initiatives”
+
+1
+
+Source: EY-Parthenon Analysis
+
+Digital initiatives Energy efficiency Renewable energy Carbon capture measures
+
+| 1. Digital twin | 3. MVR | 5. Zero gap electrolysis |
+| --- | --- | --- |
+| 2. Brine temperature control | 4. Brine purification | 6. Renewable electricity (80% RE) |
+| | | 7. Carbon capture |
+
+A :
+
+S :
+
+The Indian Chlor Alkali sector may start investing in decarbonization technologies now, as the cost of abatement is projected to drop below the Indian carbon prices in next 5
+
+years
+
+ By abating CO2 emissions at a cost lower than the carbon price, chlor-alkali industry may realize significant cost savings by
+
+overcoming the higher costs tied to carbon prices.
+
+ In a normative scenario, it is projected that by the year 2031, the cost of decarbonization will drop below US$15/tCO2.
+
+Concurrently, carbon prices in India are expected to rise above this level.
+
+ As the technologies scale further and matures in upcoming years, the cost of decarbonization decreases further, leading to
+
+quicker incentivization for the chlor-alkali sector.
+
+Assumptions:
+
+1. A carbon price scenario with a normative pricing of US$10/tCO2 in 2026 has been taken into account for the analysis.
+
+2. In the pessimistic and optimistic scenarios, carbon price starts at US$15 and US$5, respectively.
+
+Indian Chlor-Alkali Industry: Cost of Abatement v/s Carbon Prices
+
+Insights
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+2026 2028 2030 2032 2034 2036 2038 2040 2042 2044 2046 2048 2050
+
+S $ / t
+
+Cost of abatement
+
+Carbon price: Optimistic scenario
+
+Carbon price: Normative scenario
+
+Carbon price: Pessimistic scenario
+
+S :
+
+Overview of the paper industry market size, production trends, capacity and import and export markets; CCTS targets a mandatory reduction of ~750 KT of CO2 by FY27
+
+India’s paper industry production trend (MMT)
+
+Highlights
+
+ The paper industry operates at a capacity utilization of ~88% and at a CAGR of 5.8%.
+
+ Import of paper, paperboard and newsprint has grown from 1.785 MMT in 2010-11 to 2.59 MMT in 2023-24  Overall, Imports have risen at a CAGR of 11% in value terms (from INR 3,411 cr. in 2010-11 to INR 13,248 cr. in 2023-24
+
+ Exports of paper, paperboard and newsprint have increased almost three times from 0.53 MMT in 2010-11 to 1.56 MMT in 2023-24.
+
+ FDI inflows in paper and pulp until September 2024 was INR15,121 crore (US$1.74 billion).
+
+CCTS targets  Sectoral reduction target
+
+ An average 4% to 9% reduction in emission intensity over the baseline during the compliance period would translate to ~750 KT reduction of CO2e by FY27(assuming constant installed capacity as per FY 2023-2024).
+
+ During the compliance period, based on the production forecast, there is a potential net increase of ~240 KT of
+
+CO2 e emissions.
+
+Parameters Description
+
+No of paper mills 850-870 (~520 operational)
+
+Annual revenue INR80,000 crore
+
+India’s share in global production 5-6%
+
+Production capacity 27.15 MMT
+
+22.1 21.9 22.0
+
+24.3
+
+25.3
+
+27.2
+
+18.9 19.4 20.1
+
+21.7 22.4
+
+23.8
+
+2017-18 2018-19 2019-20 2020-21 2021-22 2022-23
+
+Installed capacity Production
+
+Emission scenarios with CCTS/ SBTi mandates and cost saving potential
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+4.5
+
+FY24 FY30 FY35 FY40 FY45 FY50
+
+-23% -52% -66% -96%
+
+T )
+
+S $
+
+Note: 
+1. SBTi targets are aligned as per 1.5 Degree scenario with long term target of 50% emission reduction in 10 years and Net zero by 2050 
+2. Accelerated decarbonization scenario targets 50% emission reduction by 2030 and net zero by 2040 
+3. The Paper & pulp sector is projected to grow at 6.5% annually until FY 2035, after which the growth rate is expected to stabilize at 5% in 
+the long term 
+
+Source: EY-Parthenon Analysis
+
+The company would have to pay for these emissions in CCTS scheme in case of BAU scenario (eg: if company does not decarbonize)
+
+The company would have an emission differential of 52% by 2030 and 86% by 2040 if compared with SBTi targets
+
+• The company would have to pay for the excess emissions above CCTS benchmark
+
+• The CCTS penalty will differ as the growth rate increases and CCTS benchmark decreases if the company does not decarbonize
+
+• Since the SBTi line is below CCTS emission benchmark, adherence to the same and having an accelerated decarbonization journey can help the company avoid CCTS penalties 
+The company would have an 
+emission differential of 66% by 
+2030 and 96% by 2040 if compared 
+with Accelerated Decarbonization 
+targets 
+
+-26% -86%
+
+BAU scenario 
+CCTS emission benchmark 
+SBTi emission benchmark 
+Accelerated decarbonization scenario 
+CCTS impact 
+
+Case study: A leading paper & pulp company should begin decarbonizing its assets to avoid CCTS penalties on a 23% to
+
+26% emissions gap from BAU
+
+Note: 
+1. SBTi targets are aligned as per 1.5 Degree scenario with long term target of 50% emission reduction in 10 years and net zero by 2050 
+2. Accelerated decarbonization scenario targets 50% emission reduction by 2030 and net zero by 2040 
+3. The paper and pulp sector is projected to grow at 6.5% annually until FY 2035, after which the growth rate is expected to stabilize at 
+5% in the long term 
+
+Normative carbon pricing: The company is expected to incur a financial implication of ~INR 23-29 crores from 2026 to 2030 due to the impact of CCTS, if no decarbonization is undertaken
+
+Sensitivity Analysis highlighting financial impact FY 26-30 (cr.)
+
+| Sensitivity table | Production growth scenario | No Growth | Pessimistic | Normative (paper and pulp growth) | Optimistic |
+| --- | --- | --- | --- | --- | --- |
+| CCTS industry benchmark scenario | % | 0% | 4% | 6% | 8% |
+| As-is (Present) | As per BEE Gazette | 17-23 | 21-27 | 23-29 | 25-31 |
+| Industry weighted average | Average of all plants (category wise) (in terms of GEI) | 26-32 | 31-38 | 33-39 | 36-42 |
+| Pessimistic (stricter targets) | -5% (GEI target lower Industry weighted avg) | 32-38 | 38-44 | 41-47 | 44-50 |
+| Optimistic (lenient targets) | +5% (GEI target higher than industry weighted avg) | 20-26 | 24-30 | 26-32 | 28-34 |
+
+Source: EY-Parthenon Analysis
+
+Insights
+
+ In the BAU scenario, taking into account a 6% industry growth rate for the paper and pulp industry, the company is 
+projected to experience a financial impact of INR24-29 crore from 2026 to 2030, considering the carbon price at 
+US$10 per ton of CO2 equivalent. 
+ The costs in the table represent the cost of not decarbonizing for the company. 
+
+Assumptions:
+
+ Three plants of the company have been considered for analysis in this table (taken directly from the GoI Gazette by 
+BEE). 
+ The financial impact is calculated cumulatively from 2025 to 2030. The net present value of the impact has been 
+mentioned in the table. 
+ A carbon price scenario with a normative pricing of US$10 has been taken into account for the analysis 
+ Production growth scenarios have been built basis the paper and pulp sector trends in India. 
+ The “Industry Weighted Average” for GHG emission intensity has been considered for scenario analysis. 
+ The CCTS benchmark sensitivity scenarios have been built basis +5% and -5% of the “Industry Weighted Average” 
+intensity benchmark. 
+
+Substituting coal with biomass in the paper and pulp industry is the biggest lever to abate emissions associated with thermal energy, followed by energy efficiency measures
+
+0.95 0.68 0.09
+
+Emission Intensity (tCO2/ ton)
+
+14 15
+
+90
+
+40
+
+30 )
+
+1213
+
+C t /
+
+20 $
+
+10 11
+
+U ( t n
+
+0
+
+A f o
+
+9
+
+t -10 s o
+
+5 6 7 8
+
+-20 -30
+
+4
+
+3
+
+-40
+
+2
+
+“in the money initiatives”
+
+1
+
+Energy efficiency Alternate fuels
+
+Renewable energy Carbon capture
+
+| 1. Pumping optimization | 4. Vacuum system optimization | 7. Heat recovery | 10. 60% coal subt. With biomass | 13. Efficient refiners |
+| --- | --- | --- | --- | --- |
+| 2. Advanced process control | 5. Enclosed paper machine hoods | 8. Efficient rotors | 11. Shoe press | 14. Gap forming |
+| 3. Turbo fans in vacuum system | 6. Usage of thermo compressors | 9. Efficient screening | 12. 100% renewable electricity | 15. Carbon capture |
+
+n io t a
+
+Note:
+
+i z n
+
+1. The decarbonization levers is identified for the RCF (Recycled) paper making process which is the major paper production pathway in
+
+o r b
+
+India a c e d
+
+2. Carbon capture costs includes capturing CO2 from source, and excludes the fate of captured CO2 for storage/utilization. 
+3. The analysis considers specific power consumption of 535 kWh/t paper from coal fired captive power plant; 2.52 t steam/t paper 
+
+t o t h
+
+Source: EY-Parthenon Analysis
+
+consumption from coal fired boilers. Analysis is normalized for 0.95 tCO2 /t paper
+
+e c c
+
+A :
+
+S :
+
+The Indian paper and pulp sector may start investing in decarbonization technologies now, as the cost of abatement is projected to drop below Indian carbon prices in the next
+
+four years
+
+Indian Pulp & Paper Industry: Cost of Abatement v/s Carbon Prices
+
+Insights
+
+ By abating CO2 emissions at a cost lower than the carbon price, the paper and pulp industry may realize significant cost
+
+savings by overcoming the higher costs tied to carbon prices.
+
+ In a normative scenario, it is projected that by the year 2029, the cost of decarbonization will drop below US$15/tCO2.
+
+Concurrently, carbon prices in India are expected to rise above this level.
+
+ As the technologies scale further and mature in the upcoming years, the cost of decarbonization decreases further, leading
+
+to quicker incentivization for the paper and pulp industry.
+
+Assumptions:
+
+1. A carbon price scenario with a normative pricing of US$10/tCO2 in 2026 has been taken into account for the analysis.
+
+2. In pessimistic and optimistic scenarios, the carbon price starts at US$15 and US$5, respectively.
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+2026 2028 2030 2032 2034 2036 2038 2040 2042 2044 2046 2048 2050
+
+S $ / t
+
+Cost of abatement
+
+Carbon price: Optimistic scenario
+
+Carbon price: Normative scenario
+
+Carbon price: Pessimistic scenario
+
+S :
+
+Globally, India is the second-largest producer of crude steel and is on track to achieve 255 MMT production by FY31
+
+India’s Iron and Steel industry trend (MMT)
+
+142 144 154 161
+
+180
+
+109 104
+
+120 127
+
+144
+
+77
+
+72
+
+78 79 81
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+0
+
+50
+
+100
+
+150
+
+200
+
+Installed capacity Crude steel production Utilization %
+
+FY20 FY21 FY22 FY23 FY24
+
+Highlights
+
+ India aims to reach 300 MMT installed capacity by FY31 under the National Steel Policy.
+
+ Domestic steel demand is growing at 9%-10% Y-o-Y, led by end-use sectors like automotive, infrastructure and
+
+construction sectors.
+
+ The PLI Scheme expected to add 26 MMT of specialty capacity, INR42,500 crore investment.
+
+ India has developed a Green Steel Taxonomy to standardize definitions.
+
+ The emission intensity reduction targets for the companies fall in the range of 4% to 9% over the baseline during
+
+the compliance period.
+
+ This would translate to ~19.5 MMT reduction of CO2e by FY27 (assuming constant installed capacity as per FY 2023-2024).
+
+CCTS targets  Sectoral Reduction target
+
+ The emission intensity reduction targets for the companies fall in the range of 4% to 9% over the baseline during
+
+the compliance period
+
+ This would translate to ~19.5 MMT reduction of CO2e by FY27 (assuming constant installed capacity as per FY 2023-2024)
+
+Parameters Description
+
+Global Steel Production (2024) 1,882 million metric tons
+
+2nd India’s global rank in steel production
+
+Global crude steel EI 1.92 tCO2 per ton crude steel
+
+India’s crude steel EI 2.55 tCO2 per ton crude steel
+
+Case study: A major iron and steel company should start decarbonizing its assets to avoid CCTS penalties on 18% to
+
+22% emissions differential from BAU
+
+Emission scenarios with CCTS/ SBTi mandates and cost saving potential
+
+0
+
+500
+
+1,000
+
+1,500
+
+2,000
+
+2,500
+
+3,000
+
+3,500
+
+4,000
+
+4,500
+
+5,000
+
+5,500
+
+6,000
+
+6,500
+
+7,000
+
+7,500
+
+8,000
+
+8,500
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+200
+
+220
+
+240 BAU scenario CCTS emission benchmark SBTi emission benchmark Accelerated decarbonization scenario CCTS impact
+
+-22% -86% -96%
+
+FY24 FY30 FY35 FY40 FY45 FY50
+
+-18%
+
+-53% -67%
+
+T )
+
+S $
+
+Note: 
+SBTi targets are aligned as per 1.5 Degree scenario with long term target of 50% emission reduction in 10 years and net zero by 2050 
+2. Accelerated decarbonization scenario targets 50% emission reduction by 2030 and net zero by 2040 
+3. The iron and steel sector is projected to grow at 7% annually until FY 2035, after which the growth rate is expected to stabilize at 5% in 
+the long term 
+
+Source: EY-Parthenon Analysis
+
+ The company would have to pay for the excess emissions above CCTS benchmark  The CCTS penalty will differ as the growth rate increases and CCTS benchmark decreases if the company does not decarbonize
+
+The company would have to pay 
+for these emissions in CCTS 
+scheme in case of BAU scenario 
+(eg: if company does not 
+decarbonize) 
+
+The company would have an emission differential of 53% by 2030 and 86% by 2040 if compared with SBTi targets
+
+The company would have an emission differential of 67% by 2030 and 96% by 2040 if compared with Accelerated Decarbonization targets
+
+ Since the SBTi line is below CCTS emission benchmark, adherence to the same and having an accelerated decarbonization journey can help the company avoid CCTS penalties
+
+Normative carbon pricing: The company is expected to incur a financial implication of INR3010-3016 crore from 2026 to 2030 due to the impact of CCTS if no decarbonization is undertaken
+
+Sensitivity Analysis highlighting financial impact FY 26-30 (cr.)
+
+| Sensitivity Table | Production growth scenario | No Growth | Pessimistic | Normative steel growth) | (iron and Optimistic |
+| --- | --- | --- | --- | --- | --- |
+| CCTS Industry Benchmark scenario | % | 0% | 5% | 7% | 9% |
+| As-is (Present) | As per BEE Gazette | 2173-2179 | 2747-2753 | 3010-3016 | 3295-3301 |
+| Industry Weighted Average | Average of all plants (category wise) (in terms of GEI) | 3600-3606 | 4457-4463 | 4846-4852 | 5266-5272 |
+| Pessimistic (stricter targets) | -5% (GEI target lower Industry weighted avg) | 4665-4671 | 5758-5764 | 6254-6260 | 6876-6882 |
+| Optimistic (lenient targets) | +5% (GEI target higher than Industry weighted avg) | 2537-2543 | 3158-3164 | 3441-3447 | 3746-3752 |
+
+Insights
+
+ In the BAU scenario, taking into account a 7% industry growth rate for the iron and steel industry, the company is projected 
+to experience a financial impact of INR3,010-3,016 crore from 2026 to 2030, considering the carbon price at US$10 per 
+ton of CO2eq 
+ The costs in the table represent the cost of not decarbonizing for the company plants 
+
+Assumptions:
+
+1. Three plants of the company have been considered for analysis in this table (taken directly from the GoI Gazette by BEE) 
+2. The financial impact is calculated cumulatively from 2025 to 2030. The net present value of the impact has been mentioned in the table. 
+3. A carbon price scenario with normative pricing of US$10 has been taken into account for the analysis 
+4. Production growth scenarios have been built basis the iron and steel sector trends in India. 
+5. The “Industry Weighted Average” for GHG emission intensity has been considered for scenario analysis 
+6. The CCTS benchmark sensitivity scenarios have been built basis +5% and -5% of the “Industry Weighted Average” intensity benchmark. 
+
+t h e
+
+Carbon capture is the most crucial lever to abate emissions associated in BF-BOF steelmaking process in India, followed by energy efficiency measures
+
+1.75 0.26
+
+2.46 Emission Intensity (tCO2/ ton)
+
+120
+
+100
+
+100
+
+2 )
+
+16 17
+
+80
+
+80
+
+15
+
+14
+
+13
+
+60
+
+60
+
+40
+
+0
+
+-20
+
+8
+
+Carbon Capture
+
+Renewable Energy
+
+Energy Efficiency Measures
+
+Alternate Fuels
+
+7
+
+6
+
+-40
+
+“in the money initiatives”
+
+5
+
+-140
+
+4
+
+3
+
+2
+
+1
+
+| 1. Increasing PCI rate | 5. Stove sensible heat recovery | 9. BOF gas: sensible heat recovery | 13. Renewable energy | 17. Carbon capture |
+| --- | --- | --- | --- | --- |
+| 2. COG use | 6. Variable speed drives | 10. Biomass injection | 14. TRT | 18. NG injection in BF |
+| 3. Increasing sinter burner efficiency | 7. Cogeneration | 11. Cmc | 15. Sinter cooler heat recovery | 19. GH2 injection in BF |
+| 4. Energy monitoring system | 8. Preventive maintenance | recovery12. Cdq | 16. Slag heat | |
+
+Note: 1. Carbon capture costs includes capturing CO2from source, and excludes the fate of captured CO2 for storage/utilization.
+
+Source: CEEW, EYP Analysis
+
+S :
+
+The Indian iron and steel industry may start investing in decarbonization technologies now, as the cost of abatement is projected to fall below Indian carbon prices by the next
+
+decade
+
+ By abating CO2 emissions at a cost lower than the carbon price, the iron and steel industry may realize significant cost
+
+savings by overcoming the higher costs tied to carbon prices.
+
+ In a pessimistic scenario, it is projected that by the year 2035, the cost of decarbonization will drop below US$30/tCO2.
+
+Concurrently, carbon prices in India are expected to rise above this level.
+
+ As the technologies scale further and matures in upcoming years, the cost of decarbonization decreases further, leading to
+
+quicker incentivization for the iron and steel industry.
+
+Assumptions:
+
+1. A carbon price scenario with a normative pricing of $10/tCO2in 2026 has been taken into account for the analysis.
+
+2. In pessimistic and optimistic scenario, carbon price starts at $15 & $5 respectively
+
+3. All identified decarbonization levers are considered at once to plot the blended cost of abatement in each year
+
+Indian iron and steel (BF-BOF): Cost of abatement vs. carbon prices
+
+Insights
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+2026 2028 2030 2032 2034 2036 2038 2040 2042 2044 2046 2048 2050
+
+S $ / t
+
+Cost of Abatement
+
+Carbon Price: Optimistic Scenario
+
+Carbon Price: Normalative Scenario
+
+Carbon Price: Pessimistic Scenario
+
+S :
+
+India’s refinery sector is the fourth largest in the world, with an installed capacity of 257 MMTPA, which is projected to grow to 310 MMTPA by 2028 driven by rising energy demand
+
+India’s refinery sector trend (MMTPA) Highlights
+
+ India’s refining capacity has grown from 215.1 MMTPA to 256.8 MMTPA over the past decade.
+
+ As the world’s fourth-largest crude oil refiner, India is expected to add approximately one million barrels per day of refining capacity by 2028, taking the refining capacity to 309.5 MMTPA.
+
+ India is the third-largest consumer of crude oil, with a demand of 5.59 million bpd in 2024, reflecting a 4.1% growth over the previous year.
+
+ Oil demand in India is projected to register a twofold growth, reaching one million barrels by
+
+2045.
+
+ India aims to nearly double its refining capacity to 450 to 500 million tons by 2030, in line with the growing oil demand.
+
+Parameters Description
+
+No of refineries 23
+
+Combined capacity 257 MMTPA
+
+4th India’s global rank in refining capacity
+
+37.3 (tCO2e/MBBLS) Avg. refining emission intensity
+
+CCTS targets  Sectoral Reduction target  The emission intensity reduction targets for refineries fall in the range of 2% to 6% over the baseline during the compliance period.
+
+ This would translate to ~3.3 MMT reduction of CO2e by FY27 (assuming constant installed capacity as per FY 2023-2024).
+
+Source: EYP Research, PIB
+
+MBBLS: 1000 barrels
+
+215
+
+257
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+Refining capacity
+
+FY 14 FY 24
+
+19.5%
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+200
+
+220
+
+240
+
+260
+
+280
+
+300
+
+320
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+4.5
+
+5.0
+
+5.5
+
+6.0
+
+6.5
+
+7.0
+
+7.5
+
+8.0
+
+8.5
+
+ The company would have to pay for the excess emissions above CCTS benchmark  The CCTS penalty will differ as the growth rate increases and CCTS benchmark decreases if the company does not decarbonize
+
+The company would have to pay for these emissions in CCTS scheme in case of BAU scenario (eg: if company does not decarbonize)
+
+The company would have an emission differential of 41% by 2030 and 75% by 2040 if compared with SBTi targets
+
+The company would have an emission differential of 58% by 2030 and 93% by 2040 if compared with Accelerated Decarbonization targets
+
+ Since the SBTi line is below CCTS emission benchmark, adherence to the same and having an accelerated decarbonization journey can help the company avoid CCTS penalties
+
+Note: 
+. SBTi targets are aligned as per 1.5 Degree scenario with long term target of 50% emission reduction in 10 years and net zero by 2050 
+2. Accelerated decarbonization scenario targets 50% emission reduction by 2030 and net zero by 2040 
+3. The refinery sector is projected to grow at 3% annually until FY 2035, after which the growth rate is expected to stabilize at 1% in the 
+long term 
+
+Emission scenarios with CCTS/ SBTi mandates and cost saving potential
+
+T )
+
+FY24 FY30 FY35 FY40 FY45 FY50
+
+C C T S I m p a c t ( U S $ M i l l i o n )
+
+BAU scenario 
+CCTS emission benchmark 
+SBTi emission benchmark 
+Accelerated decarbonization scenario 
+CCTS impact 
+
+Case study: A prominent refinery in India should start decarbonizing its assets to avoid CCTS penalties on 13% to 18% emissions differential from BAU
+
+MBBLS: 1000 barrels
+
+Normative carbon pricing: The company is expected to incur a financial implication of ~INR 272-278 crore from 2026 to 2030 due to the impact of CCTS, if no decarbonization is undertaken
+
+Sensitivity Analysis highlighting financial impact FY 26-30 (INR cr.)
+
+| Sensitivity table | Production growth scenario | No Growth | Pessimistic | Normative growth benchmark) | (refinery Optimistic |
+| --- | --- | --- | --- | --- | --- |
+| CCTS industry benchmark scenario | % | 0% | 1% | 3% | 5% |
+| As-is (Present) | As per BEE Gazette | 235-241 | 248-254 | 272-278 | 299-305 |
+| Industry Weighted Average | Average of all plants (category wise) (in terms of GEI) | 296-302 | 310-316 | 337-343 | 365-370 |
+| Pessimistic (stricter targets) | -5% (GEI target lower Industry weighted avg) | 393-399 | 412-418 | 447-453 | 484-490 |
+| Optimistic (lenient targets) | +5% (GEI target higher than Industry weighted avg) | 199-205 | 208-214 | 226-232 | 246-252 |
+
+Insights
+
+ In the BAU scenario, taking into account a 3% industry growth rate for the refining sector, the company is projected 
+to experience a financial impact of INR272-278 crore from 2026 to 2030, considering the carbon price at US$10 
+per ton of CO2 equivalent. 
+ The costs in the table represent the cost of not decarbonizing. 
+
+Assumptions:
+
+1. Three plants of the company have been considered for analysis in this table (taken directly from the GoI Gazette by BEE). 
+2. The financial impact is calculated cumulatively from 2025 to 2030. The net present value of the impact has been mentioned in the table. 
+3. A carbon price scenario with normative pricing of US$10 has been taken into account for the analysis 
+4. Production growth scenarios have been built basis the refining sector trends in India. 
+5. The “Industry Weighted Average” for GHG emission intensity has been considered for scenario analysis. 
+6. The CCTS benchmark sensitivity scenarios have been built basis +5% and -5% of the “Industry Weighted Average” intensity benchmark. 
+
+Electrification of boilers and carbon capture are among the most critical levers for decarbonizing the refinery sector, together accounting for approximately 54% of potential emission
+
+reductions
+
+Emission Intensity
+
+4.936
+
+3.682 0.5
+
+(tCO2/MBBLS)
+
+11
+
+70
+
+10
+
+60
+
+9
+
+50 )
+
+40
+
+8
+
+C t /
+
+30 $
+
+U ( t
+
+10 t a b
+
+A f
+
+0
+
+7
+
+-20 -30
+
+3
+
+6 5
+
+-40
+
+4
+
+“in the money initiatives”
+
+1 2
+
+Carbon capture
+
+Energy efficiency measures
+
+Alternate fuels Electrification Renewable energy
+
+MBBLS: 1000 barrels
+
+Source: EY-Parthenon Analysis
+
+| 1. Heat recovery and integration | 4. Drive electrification | 7. Power recovery turbine | 10. Electrical heat tracing |
+| --- | --- | --- | --- |
+| 2. Organic rankine | 5. Energy efficient cycle motors | 8. Alternate fuel (compressed biogas) | 11. Electric boilers |
+| 3. Jacketing for insulation | 6. RE adoption | 9. Carbon capture | |
+
+A :
+
+S :
+
+Indian refineries may start investing in decarbonization technologies now, as the cost of abatement is projected to drop below the Indian carbon prices in next 6 to 8 years
+
+Indian Refineries: Cost of Abatement v/s Carbon Prices
+
+Insights
+
+ By abating CO2 emissions at a cost lower than the carbon price, the refining industry may realize significant cost savings by overcoming the higher costs tied to carbon prices.
+
+ In a normative scenario, it is projected that by the year 2033, the cost of decarbonization will drop below
+
+US$17/tCO2. Concurrently, carbon prices in India are expected to rise above this level.
+
+ As technologies scale further and mature in the upcoming years, the cost of decarbonization decreases further,
+
+leading to quicker incentivization for the industry.
+
+Assumptions:
+
+ A carbon price scenario with normative pricing of US$10/tCO2 in 2026 has been taken into account for the analysis.
+
+ In pessimistic and optimistic scenarios, the carbon price starts at US$15 and US$5, respectively.
+
+ All identified decarbonization levers are considered at once to plot the blended cost of abatement in each year.
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+2026 2028 2030 2032 2034 2036 2038 2040 2042 2044 2046 2048 2050
+
+S $ / t
+
+Cost of abatement
+
+Carbon price: Optimistic scenario
+
+Carbon price: Normative scenario
+
+Carbon price: Pessimistic scenario
+
+India is the second-largest textile manufacturer and sixth largest exporter in the world, with over 3,400 textile mills installed currently
+
+Indian Refineries: Cost of Abatement v/s Carbon Prices
+
+Highlights
+
+7.00
+
+7.00 6.83
+
+6.40
+
+5.72
+
+5.29
+
+5.53
+
+6.00
+
+5.29
+
+ The textiles and apparel industry contributes 2.3% 
+to the country’s GDP, 13% to industrial production 
+and 12% to exports. 
+ The market for Indian textiles and apparel is 
+projected to grow at a 10% CAGR, reaching 
+US$350 billion by 2030, with exports expected to 
+reach US$100 billion. 
+ Cotton production in India is projected to reach 
+7.2 million metric tons by 2030, driven by 
+increasing demand from consumers. 
+ The government has approved the establishment 
+of seven PM Mega Integrated Textile Region and 
+Apparel (PM MITRA) parks in 
+greenfield/brownfield sites, with an outlay of 
+INR4445 crore for a period of seven years up to 
+2027-28. 
+
+0.04
+
+0.03 0.03 0.03
+
+1.08 1.25
+
+1.26
+
+0.96
+
+FY21
+
+FY22 FY23 FY24
+
+Cotton Silk Jute
+
+CCTS targets
+
+| Parameters | Description |
+| --- | --- |
+| No of textile mills | 3400+ |
+| Domestic textile and apparel production | US$ 175.7 Bn |
+| Exports value | US$ 35.87 Bn |
+
+ Sectoral Reduction target  Emission intensity targets vary across sub sectors, but on average, a 4%-12% reduction from the baseline will be required during the compliance period.  This would translate to ~1.6 MMT reduction of CO2 e by FY27(assuming constant installed capacity as per FY 2023-2024).
+
+MBBLS: 1000 barrels
+
+Source: EYP Research, Cotton production, Silk production, Jute production
+
+0
+
+50
+
+Case study: A textile company with should start decarbonizing its assets to avoid CCTS penalties on 20%-24% emissions differential from BAU
+
+Emission scenarios with CCTS/ SBTi mandates and cost saving potential
+
+T )
+
+FY24 FY30 FY35 FY40 FY45
+
+-96%
+
+Note: 
+1. SBTi targets are aligned as per 1.5 Degree scenario with long term target of 50% emission reduction in 10 years and net zero by 2050 
+2. Accelerated decarbonization scenario targets 50% emission reduction by 2030 and net zero by 2040 
+3. The textile sector is projected to grow at 7% annually until FY 2035, after which the growth rate is expected to stabilize at 5% in the long 
+term 
+
+ The company would have to pay for the excess emissions above CCTS benchmark  The CCTS penalty will differ as the growth rate increases and CCTS benchmark decreases if the company does not decarbonize
+
+The company would have to pay for these emissions in CCTS scheme in case of BAU scenario (eg: if company does not decarbonize)
+
+The company would have an emission differential of 53% by 2030 and 86% by 2040 if compared with SBTi targets
+
+The company would have an emission differential of 67% by 2030 and 96% by 2040 if compared with Accelerated Decarbonization targets
+
+ Since the SBTi line is below CCTS emission benchmark, adherence to the same and having an accelerated decarbonization journey can help the company avoid CCTS penalties
+
+FY50
+
+Source: EY-Parthenon Analysis
+
+S $
+
+BAU scenario 
+CCTS emission benchmark 
+SBTi emission benchmark 
+Accelerated decarbonization scenario 
+CCTS impact 
+
+Normative carbon pricing: The company is expected to incur a financial implication of ~INR53-59 crore from 2026 to 2030 due to the impact of CCTS if no decarbonization is undertaken
+
+Sensitivity Analysis highlighting financial impact FY 26-30 (cr.)
+
+| Sensitivity Table | Production growth scenario | No Growth | Pessimistic | Normative growth benchmark) | (textile Optimistic |
+| --- | --- | --- | --- | --- | --- |
+| CCTS industry benchmark scenario | % | 0 | 6% | 8% | 10% |
+| As-is (Present) | As per BEE Gazette | 36-42 | 48-54 | 53-59 | 58-64 |
+| Industry Weighted Average | Average of all plants (category wise) (in terms of GEI) | 47-53 | 61-67 | 67-73 | 73-79 |
+| Pessimistic (stricter targets) | -5% (GEI target lower Industry weighted avg) | 60-66 | 78-84 | 85-91 | 92-98 |
+| Optimistic (lenient targets) | +5% (GEI target higher than Industry weighted avg) | 34-40 | 45-51 | 49-54 | 54-60 |
+
+Insights
+
+ In the BAU scenario, taking into account an 8% industry growth rate for the textile industry, the company is 
+projected to experience a financial impact of INR53-59 crore from 2026 to 2030, considering the carbon price at 
+US$10 per ton of CO2eq. 
+ The costs in the table represent the cost of not decarbonizing for the company. 
+
+Assumptions:
+
+ Eight plants of the company have been considered for analysis in this table (taken directly from the GoI Gazette by 
+BEE). 
+ The financial impact is calculated cumulatively from 2026 to 2030. The net present value of the impact has been 
+mentioned in the table. 
+ A carbon price scenario with a normative pricing of US$10 has been taken into account for the analysis. 
+ Production growth scenarios have been built basis the textile sector trends in India. 
+ The “Industry Weighted Average” for GHG emission intensity has been considered for scenario analysis. 
+ The CCTS benchmark sensitivity scenarios have been built basis +5% and -5% of the “Industry Weighted Average” 
+intensity benchmark. 
+
+S :
+
+Renewable energy and alternate fuels are the most critical levers for decarbonizing the textile sector, together accounting for approximately ~90% of potential emission reductions
+
+-20 -10
+
+0
+
+10 -15 -5
+
+5
+
+EV adoption
+
+1
+
+4
+
+Emission intensity (tCO2/ton of product)
+
+“in the money initiatives”
+
+5
+
+“in the money initiatives”
+
+5. Purchase of green power 3. Coal replacement with biomass in CPP 1. Fleet and MHE electrification
+
+6. Battery energy storage system
+
+(BESS)
+
+4. Purchase of renewable energy certificates 2. RE (rooftop + open access)
+
+S $ / t
+
+5
+
+6
+
+3
+
+2
+
+1
+
+3.93 1.18 0.4
+
+Alternate fuels Renewable energy
+
+Source: EY-Parthenon Analysis
+
+S :
+
+The textile sector should start investing in decarbonization technologies now, as the current abatement cost of –
+
+2.6US$/tCO₂ e indicates that emission reductions already deliver cost savings Indian Refineries: Cost of Abatement v/s Carbon Prices
+
+Insights
+
+ The textile industry can achieve significant cost savings by abating CO₂ emissions at a cost lower than the carbon price, reducing exposure to carbon pricing.  Currently, the cost of abatement stands at ~2.6 US$/tCO₂ e, driven by significant emission reductions through RE adoption and alternative fuels, both of which are “in the money” initiatives.  This suggests the industry should act now to capture savings of 2.6US$ per ton of CO₂ , with further cost reductions expected as technologies mature. Assumptions: 1. A carbon price scenario with a normative pricing of US$10/tCO2 in 2026 has been taken into account for the analysis. 2. In pessimistic and optimistic scenarios, the carbon price starts at US$15 and US$5, respectively. 3. All identified decarbonization levers are considered at once to plot the blended cost of abatement in each year.
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+2026 2028 2030 2032 2034 2036 2038 2040 2042 2044 2046 2048 2050
+
+S $ / t
+
+Cost of Abatement
+
+Carbon price: Optimistic scenario Carbon price: Pessimistic scenario
+
+Carbon price: Normative scenario
+
+S :
+
+India's petrochemical sector is set for rapid growth, with capacity rising from 29.6 MMTPA to 46 MMTPA by 2030, US$87 billion in planned investments, and a projected US$1 trillion
+
+valuation by 2040
+
+India’s petrochemical sector trend (MMTPA) Highlights  The textile industry can achieve significant cost savings by abating CO₂ emissions at a cost lower than the carbon price, reducing exposure to carbon pricing.  Currently, the cost of abatement stands at ~2.6
+
+US$/tCO₂ e, driven by significant emission reductions through RE adoption and alternative fuels, both of which are “in the money” initiatives.  This suggests the industry should act now to capture savings of 2.6US$ per ton of CO₂ , with further cost reductions expected as technologies mature.
+
+Parameters Description
+
+Production capacity ~29.6 MMTPA
+
+6th India’s rank in chemical and petrochemical production
+
+0.9795 (tCO2e/ton of product)
+
+Petrochemical emission intensity
+
+CCTS targets  Sectoral Reduction target  An average reduction of 5% from the baseline will be required during the compliance period  This would translate to ~1100 KT reduction of CO2 e by FY27 (assuming constant installed capacity as per FY 2023-2024)
+
+30
+
+46
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+2024 2030
+
++55.4%
+
+Production capacity
+
+Source: EYP Research, PIB
+
+S :
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+4.5
+
+Case Study: A petrochemicals production company should start decarbonizing their assets to avoid CCTS penalties on
+
+12-16% emissions differential from BaU
+
+Emission scenarios with CCTS/ SBTi mandates and cost saving potential
+
+T )
+
+FY24 FY30 FY35 FY40 FY45 FY50
+
+Note:
+
+1. SBTi targets are aligned as per 1.5 Degree scenario with long term target of 50% emission reduction in 10 years and net zero by 2050
+
+2. Accelerated decarbonization scenario targets 50% emission reduction by 2030 and net zero by 2040
+
+3. The petrochemical sector is projected to grow at 3% annually until FY 2035, after which the growth rate is expected to stabilize at 1% in
+
+the long term
+
+S $
+
+ The company would have to pay for the excess emissions above the 
+CCTS benchmark. 
+ The CCTS penalty will differ as the growth rate increases and the CCTS 
+benchmark decreases if the company does not decarbonize. 
+
+The company would have to pay for these emissions under the CCTS scheme in case of BAU scenario (e.g., if company does not decarbonize).
+
+The company would have an emission differential of 41% by
+
+2030 and 75% by 2040 if compared with SBTi targets.
+
+The company would have an emission differential of 58% by 2030 and 93% by 2040 if compared with accelerated decarbonization targets.
+
+ Since the SBTi line is below CCTS emission benchmark, adherence to the same and having an accelerated decarbonization journey can help the company avoid CCTS penalties.
+
+Source: EY-Parthenon Analysis
+
+BAU scenario
+
+CCTS emission benchmark
+
+SBTi emission benchmark
+
+Accelerated decarbonization scenario
+
+CCTS impact
+
+Normative carbon pricing: The company is expected to incur a financial implication of ~INR107-113 crore from 2026 to 2030 due to the impact of CCTS if no decarbonization is undertaken
+
+Sensitivity Analysis highlighting financial impact FY 26-30 (cr.)
+
+| Sensitivity Table | Production growth scenario | No Growth | Pessimistic | Normative (Petrochem. growth) | Optimistic |
+| --- | --- | --- | --- | --- | --- |
+| CCTS industry benchmark scenario | % | 0 | 1% | 3% | 5% |
+| As-is (Present) | As per BEE Gazette | 92-98 | 97-103 | 107-113 | 117-123 |
+| Industry Weighted Average | Average of all plants (category wise) (in terms of GEI) | 77-83 | 81-87 | 88-94 | 96-102 |
+| Pessimistic (stricter targets) | -5% (GEI target lower Industry weighted avg) | 131-137 | 138-144 | 149-155 | 162-168 |
+| Optimistic (lenient targets) | +5% (GEI target higher than Industry weighted avg) | 23-29 | 25-31 | 27-33 | 20-36 |
+
+Insights
+
+ In the BAU scenario, taking into account a 3% industry growth rate for petrochemical industry, the company is projected to experience a financial impact of INR107-113 crore from 2026 to 2030, considering the carbon price at US$10 per ton of CO2eq.  The costs in the table represent the cost of not decarbonizing for the company.
+
+Assumptions:
+
+1. One plant of the company has been considered for analysis in this table (taken directly from the GoI Gazette by BEE). 
+2. The financial impact is calculated cumulatively from 2026 to 2030. The net present value of the impact has been mentioned in the table. 
+3. A carbon price scenario with a normative pricing of US$10 has been taken into account for the analysis 
+4. Production growth scenarios have been built basis the petrochemical sector trends in India. 
+5. The “Industry Weighted Average” for GHG emission intensity has been considered for scenario analysis 
+6. The CCTS benchmark sensitivity scenarios have been built basis +5% and -5% of the “Industry Weighted Average” intensity benchmark. 
+
+S :
+
+Carbon capture and green hydrogen are the most critical levers for decarbonizing the petrochemical sector, together accounting for ~70% of potential emission reductions
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+110
+
+S $ / t
+
+2 )
+
+Energy efficiency Renewable energy
+
+Carbon capture 1
+
+Emission intensity (tCO2/ton of product)
+
+“in the money initiatives”
+
+2
+
+3
+
+Green hydrogen
+
+1. Energy efficiency 3. Carbon capture
+
+2. Renewable energy adoption 4. Partial substitution of green H2 as fuel
+
+4
+
+0.97 0.78 0.097
+
+Source: EY-Parthenon Analysis
+
+S :
+
+The petrochemical sector may start investing in decarbonization technologies now, as the cost of abatement is projected to drop below the Indian carbon prices in next 8 to 9 years
+
+Indian petrochemicals sector: Cost of Abatement v/s Carbon Prices
+
+Insights
+
+ By abating CO2 emissions at a cost lower than the carbon price, the petrochemical industry may realize significant cost savings by overcoming the higher costs tied to carbon prices.
+
+ In a normative scenario, it is projected that by the year 2039, the cost of decarbonization will drop below
+
+US$26/tCO2. Concurrently, carbon prices in India are expected to rise above this level.
+
+ As the technologies scale further and matures in upcoming years, the cost of decarbonization decreases further,
+
+leading to quicker incentivization for the industry.
+
+Assumptions:
+
+1. A carbon price scenario with a normative pricing of US$10/tCO2 in 2026 has been taken into account for the
+
+analysis.
+
+2. In pessimistic and optimistic scenarios, the carbon price starts at US$15 and US$5, respectively.
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+2026 2028 2030 2032 2034 2036 2038 2040 2042 2044 2046 2048 2050
+
+S $ / t
+
+Cost of abatement
+
+Carbon price: Optimistic scenario
+
+Carbon price: Normative scenario
+
+Carbon price: Pessimistic scenario
+
+S :
+
+India’s CCTS is not just a market reform, it is a national reset. By putting a real price on carbon, it compels industries to rethink how they grow, compete, and innovate. This is the moment that will define India’s trajectory toward genuine low-carbon leadership.
+
+Kapil Bansal
+
+India’s Carbon Credit Trading Scheme converts climate commitment into economic strength. By turning every tonne of carbon reduced into a tangible asset, it empowers industries to scale innovation, unlock new value, and compete in a rapidly decarbonizing world.
+
+Reshma RN
+
+##### 4 Recommendations
+
+The cement industry needs to prioritize energy efficiency and material efficiency to meet the CCTS targets; focus on carbon capture in the long run to achieve net zero targets
+
+Cement sector Decarbonization levers
+
+EY-P recommendations
+
+ Committing to SBTi will help companies mitigate CCTS penalties, as the initial compliance period for CCTS is till 
+FY27. While future targets are unknown, companies committing to SBTi (which requires a 90% emission reduction by 
+2050) can safely avoid CCTS penalties. 
+ Indian companies must conduct a thorough impact assessment of the CCTS on their operations, identify specific 
+compliance requirements, and establish internal monitoring and reporting mechanisms. 
+ Cement companies need to focus on “in the money” initiatives in the short-run to meet the CCTS target intensity, 
+specifically energy efficiency and material efficiency measures. 
+ Carbon capture is the biggest lever contributing to cement industry decarbonization. The government needs to 
+encourage the early adoption of carbon capture technologies through grants, tax credits, funding for R&D and 
+setting up of Centers of Excellence (CoE). 
+ Cement companies committing to sustainability targets through SBTi, RE100, etc., and getting ranked highly by CDP 
+can enhance their brand recognition globally and help with green financing. 
+ Cement companies can leverage green financing to realize their decarbonization initiatives, e.g., Ultratech 
+Cement has committed to SBTi and has set up GHG reduction targets. The company has raised US$500 million 
+through sustainability-linked loan (SLB). 
+
+BAU emissions
+
+9.0%
+
+Energy Efficiency
+
+10.2%
+
+Alternate fuels
+
+10.8%
+
+Material Efficiency
+
+4.1%
+
+RE
+
+56.1%
+
+Carbon Capture
+
+Residual Emissions
+
+100.0%
+
+10.0%
+
+ Increasing slag % in PSC  Substitute OPC with LC3 cement  Increasing fly ash % in PPC  Decreasing Clinker % in OPC  Improving burnability of material  Increasing TSR % in kiln fuel
+
+ Efficient electrical equipment  Waste heat recovery  Automation system  Efficient grinding system  Optimizing auxiliary power  Enhancement in kiln  Heat rate reduction in CPP  Burner retrofit  High efficiency clinker coolers
+
+Aluminum industry needs to prioritize Energy efficiency, Alternate fuels adoption to meet the CCTS targets; focus on RE adoption in the long-run to meet Net Zero targets
+
+Aluminium sector Decarbonization levers
+
+EY-P Recommendations
+
+ Committing to SBTi will help companies mitigate CCTS penalties, as the CCTS initial compliance period is till FY27, 
+future targets are unknown, companies committing to SBTi (which requires a 90% emission reduction by 2050) can 
+safely avoid CCTS penalties 
+ Indian companies must conduct a thorough impact assessment of the CCTS on their operations, identify specific 
+compliance requirements, and establish internal monitoring and reporting mechanisms 
+ Aluminium companies needs to focus on “In the money” initiatives in the short-run to meet the CCTS target intensity 
+– Energy efficiency and Alternate fuel adoption 
+ Most Indian Aluminium companies have captive coal-based power plant, which might not make transition to RE 
+power a cost saving measure, replacing end of life CPP assets with RE can be the way forward for aluminium 
+industry 
+ Govt. needs to encourage earlier adoption of carbon capture technologies through grants, tax credits and funding 
+R&D and setting up Centre of Excellences (CoE) 
+ Hindalco is recognized as the World’s Most Sustainable Aluminium Company as per S&P Dow Jones Sustainability 
+Indices (DJSI) owing to is sustainable practices and commitments 
+
+ Biomass Fuel Switch  NG Fuel Switch
+
+ Alumina EE 
+ Aluminium Energy Efficiency 
+ Electrolysis off gas WHR 
+ Inert Anodes 
+ Cell operation optimization 
+
+BAU emissions
+
+15.3%
+
+Energy efficiency
+
+5.6%
+
+Alternate fuels
+
+53.5%
+
+RE
+
+21.3%
+
+Carbon capture
+
+Residual emissions
+
+100.0%
+
+4.3%
+
+Chlor Alkali industry needs to prioritize Energy efficiency, Digital twin initiatives to meet the CCTS targets; focus on RE adoption and Carbon capture in the long-run to meet Net Zero targets
+
+Chlor Alkali sector Decarbonization levers
+
+EY-P Recommendations
+
+ Committing to SBTi will help companies mitigate CCTS penalties, as the initial compliance period for CCTS is until 
+FY27. Future targets are unknown, but companies committing to SBTi (which requires a 90% emission reduction by 
+2050) can safely avoid CCTS penalties. 
+ Indian companies must conduct a thorough impact assessment of the CCTS on their operations, identify specific 
+compliance requirements, and establish internal monitoring and reporting mechanisms. 
+ Chlor-alkali companies need to focus on “in the money” initiatives in the short run to meet the CCTS target intensity, 
+specifically energy efficiency and digital twin initiatives. 
+ RE adoption and carbon capture are going to be the biggest levers contributing to the decarbonization of the chlor 
+alkali sector. 
+ Most Indian chlor-alkali companies have captive coal-based power plants in conjunction with associated chemical 
+companies, which might not change to RE a cost-saving measure. Replacing end-of-life CPP assets with RE can be 
+the way forward. 
+ The government needs to encourage the early adoption of carbon capture technologies through grants, tax credits, 
+funding for R&D and setting up of Centers of Excellence (CoE). 
+
+BAU emissions
+
+22.5%
+
+Energy efficiency
+
+1.0%
+
+Digital initiatives
+
+48.4%
+
+RE
+
+18.0%
+
+Carbon Capture Residual Emissions
+
+100.0%
+
+10.0%
+
+ Digital Twin
+
+ Zero gap membrane oxygen depolarized cathode usage 
+ Brine purification 
+ Brine temperature control 
+ MVR 
+
+Paper & Pulp industry needs to prioritize Energy efficiency, Low carbon fuel switch (Biomass) to meet the CCTS targets; focus on Carbon capture in the long-run to meet Net Zero targets
+
+Paper & Pulp sector Decarbonization levers
+
+100.0%
+
+30.9%
+
+38.7%
+
+3.7%
+
+| | | | | 16.8% | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | 10.0% | | |
+| | | BAU | Energy Alternate fuels | RE Carbon | | Residual | | |
+| | | emissions | efficiency | capture | | emissions | | |
+
+ Switch to biomass
+
+ Efficient screening 
+ Efficient refiners 
+ Gap forming 
+ Installation of turbo fans 
+ Optimization of vacuum system 
+ Enclose paper machine hoods 
+
+ High efficiency pulper rotor  Pulping system optimization  Process control optimization in refining systems  Shoe press installation  Heat recovery systems  Thermo compressors
+
+EY-P Recommendations
+
+ Committing to SBTi will help companies mitigate CCTS penalties, as the initial compliance period for CCTS is till 
+FY27. Future targets are unknown, but companies committing to SBTi (which requires a 90% emission reduction by 
+2050) can safely avoid CCTS penalties. 
+ Indian companies must conduct a thorough impact assessment of the CCTS on their operations, identify specific 
+compliance requirements, and establish internal monitoring and reporting mechanisms. 
+ Paper companies need to focus on “in the money” initiatives in the short run to meet the CCTS target intensity, 
+specifically energy efficiency and switch to low carbon fuels like biomass. 
+ Companies should understand the mechanisms for generating and trading carbon credits under CCTS, as this can be 
+a revenue source for companies with low carbon intensity. 
+ The government needs to encourage the early adoption of carbon capture technologies through grants, tax credits, 
+funding for R&D and setting up of Centers of Excellence (CoE). 
+ Companies committing to sustainability targets through SBTi, RE100, etc., and getting ranked highly by CDP can 
+enhance their brand recognition globally and help with green financing. 
+
+Iron and steel industry needs to prioritize Energy efficiency, Low carbon fuel switch (Biomass) to meet the CCTS targets; focus on Carbon capture in the long-run to meet Net Zero targets
+
+Iron & steel sector Decarbonization levers
+
+EY-P Recommendations
+
+ Committing to SBTi will help companies mitigate CCTS penalties, as the initial compliance period for CCTS is till 
+FY27. Future targets are unknown, but companies committing to SBTi (which requires a 90% emission reduction by 
+2050) can safely avoid future CCTS penalties. 
+ Indian steel companies must conduct a thorough impact assessment of the CCTS on their operations, identify 
+specific compliance requirements, and establish internal monitoring and reporting mechanisms. 
+ Iron and steel companies should first focus on “in the money” initiatives like energy efficiency in the short run to 
+meet the CCTS target intensity . 
+ Companies should understand the mechanisms for generating and trading carbon credits under CCTS, as this can be 
+a revenue source for companies with low carbon intensity. 
+ The government needs to encourage the early adoption of carbon capture technologies through grants, tax credits, 
+funding for R&D and setting up of Centers of Excellence (CoE), as this can reduce 60% of the sector’s emissions. 
+ Companies committing to sustainability targets through SBTi, RE100, etc., and getting ranked highly by CDP can 
+enhance their brand recognition globally and avail green financing. 
+
+BAU Emissions
+
+12.4%
+
+Energy Efficiency
+
+7.9%
+
+Alternate fuels
+
+9.4%
+
+RE
+
+60.6%
+
+Carbon Capture Residual Emissions
+
+100.0%
+
+10.0%
+
+ Biomass injection  NG injection in BF  GH2 injection in BF
+
+ Increasing PCI rate 
+ COG use in DRI 
+ Increasing sinter burner 
+efficiency 
+ Energy monitoring system 
+ Hot stove: Sensible heat 
+recovery 
+ Variable speed drives 
+ Cogeneration 
+ Preventive maintenance 
+ BOF gas: Sensible heat recovery 
+ CMC 
+ CDQ 
+ TRT 
+ Sinter cooler heat recovery 
+ Slag heat recovery 
+
+Indian refiners should prioritize energy efficiency, drive electrification, RE adoption to meet the CCTS targets; focus on electric boilers & carbon capture in the long-run to meet Net Zero targets
+
+Refineries Decarbonization levers
+
+EY-P Recommendations
+
+ Setting net zero targets will help refineries mitigate CCTS penalties, as the initial compliance period for CCTS is until 
+FY27. Future targets are unknown, but companies committing to net zero (which requires a 90% emission reduction) 
+can safely avoid future CCTS penalties. 
+ Indian refineries must conduct a thorough impact assessment of the CCTS on their operations, identify specific 
+compliance requirements, and establish internal monitoring and reporting mechanisms. 
+ The companies should first focus on “in the money” initiatives like energy efficiency, RE adoption in the short run 
+to meet the CCTS target intensity. 
+ Companies should understand the mechanisms for generating and trading carbon credits under CCTS, as this can be 
+a revenue source for companies with low carbon intensity. 
+ The government needs to encourage the early adoption of carbon capture technologies through grants, tax credits, 
+funding for R&D and setting up of Centers of Excellence (CoE), as this can reduce 33% of the sector’s emissions. 
+ Companies committing to sustainability targets through net zero, RE100, etc., and getting ranked highly by CDP can 
+enhance their brand recognition globally and avail green financing. 
+
+BAU emissions
+
+3%
+
+Energy efficiency
+
+18%
+
+RE
+
+10%
+
+Alternative fuel
+
+33%
+
+Carbon capture
+
+Residual emissions
+
+100%
+
+Electrification
+
+26%
+
+10%
+
+ Drive electrification  Electrical heat tracing  Electric boilers
+
+ Biogas substitution  Heat recovery and integration  Organic Rankine Cycle  Jacketing for insulation  Energy efficient motors  Power recovery turbine
+
+The textile sector should adopt biomass and open access RE in the short term, and gradually increase RE coverage through RECs, green power, and BESS in the long term
+
+Textiles Sector Decarbonization levers
+
+EY-P Recommendations
+
+ Setting Net Zero targets will help refineries mitigate CCTS penalties, as the CCTS initial compliance period is till 
+FY27, future targets are unknown, companies committing to Net Zero (which requires a 90% emission reduction) 
+can safely avoid future CCTS penalties 
+ Indian refineries must conduct a thorough impact assessment of the CCTS on their operations, identify specific 
+compliance requirements, and establish internal monitoring and reporting mechanisms 
+ The companies should first focus on “In the money” initiatives like Energy efficiency, RE adoption in the short-run to 
+meet the CCTS target intensity 
+ Understand the mechanisms for generating and trading carbon credits under CCTS, this can be a revenue source for 
+companies with low carbon intensity 
+ Govt. needs to encourage earlier adoption of carbon capture technologies through grants, tax credits and funding 
+R&D and setting up Centre of Excellences (CoE) as it can reduce 33% of the emissions of the sector 
+ Companies committing to sustainability targets through Net Zero, RE100 etc. and getting ranked highly by CDP can 
+enhance their brand recognition globally and avail green financing 
+
+BAU emissions
+
+0.1%
+
+EV adoption
+
+30.0%
+
+Alternate fuels
+
+60.0%
+
+Renewable energy
+
+9.9% Residual emissions
+
+100.0%
+
+ RE (rooftop + open 
+access) 
+ Purchase of renewable 
+energy certificates 
+ Purchase of green 
+power 
+ Battery Energy Storage 
+System (BESS) 
+
+ Biomass firing in CPP  Diesel fleet and MHE electrification
+
+Petrochemical industry needs to prioritize Energy efficiency,
+
+RE adoption to meet the CCTS targets; focus on Carbon capture and green H2 in the long-run to meet Net Zero
+
+targets
+
+Petrochemicals Sector Decarbonization Levers
+
+100%
+
+12%
+
+7%
+
+41%
+
+30%
+
+Energy efficiency
+
+RE adoption
+
+Carbon capture
+
+Green hydrogen
+
+BAU emissions
+
+| | | | capture on | substitution | |
+| --- | --- | --- | --- | --- | --- |
+| | | | cracker | with green H2 | |
+| | | | furnaces | as fuel | |
+
+ Carbon  Partial
+
+EY-P Recommendations
+
+ Committing to SBTi will help companies mitigate CCTS penalties, as the CCTS initial compliance period is till FY27, 
+future targets are unknown, companies committing to SBTi (which requires a 90% emission reduction by 2050) can 
+safely avoid future CCTS penalties 
+ Indian petchem companies must conduct a thorough impact assessment of the CCTS on their operations, identify 
+specific compliance requirements, and establish internal monitoring and reporting mechanisms 
+ Companies should first focus on “In the money” initiatives like energy efficiency and RE adoption in the short-run to 
+meet the CCTS target intensity 
+ Understand the mechanisms for generating and trading carbon credits under CCTS, this can be a revenue source for 
+companies with low carbon intensity 
+ Govt. needs to encourage earlier adoption of carbon capture and green H2 through grants, tax credits and funding 
+R&D and setting up Centre of Excellences (CoE) as together they can reduce 71% of the emissions of the sector 
+ Companies committing to sustainability targets through SBTi, RE100 etc. and getting ranked highly by CDP can 
+enhance their brand recognition globally and avail green financing 
+
+S :
+
+#### Acknowledgements
+
+Reshma Narayanankutty
+
+Director
+
+EY-Parthenon India
+
+reshma.narayanankutty@parthenon.ey.com
+
+Kapil Bansal
+
+Partner
+
+EY-Parthenon India kapil.bansal1@parthenon.ey.com
+
+Swapnil Kaushik
+
+Senior Consultant
+
+EY-Parthenon India swapnil.kaushik@parthenon.ey.com
+
+Kushagra Mokati
+
+Senior Consultant
+
+EY-Parthenon India kushagra,mokati@parthenon.ey.com
+
+Sai Prudhvi
+
+Senior Consultant
+
+EY-Parthenon India sai.prudhvi@parthenon.ey.com
+
+### Notes
+
+### Notes
+
+Ahmedabad
+
+22nd Floor, B Wing, Privilon 
+Ambli BRT Road, Behind Iskcon Temple 
+Off SG Highway, Ahmedabad - 380 059 
+Tel: + 91 79 6608 3800 
+8th Floor, Building No. 14A 
+Block 14, Zone 1 
+Brigade International Financial Centre 
+GIFT City SEZ 
+Gandhinagar – 382 355, Gujarat 
+Tel: + 91 79 6608 3800 
+
+Bengaluru
+
+12th & 13th Floor 
+“UB City”, Canberra Block 
+No.24 Vittal Mallya Road 
+Bengaluru - 560 001 
+Tel: + 91 80 6727 5000 
+Ground & 1st Floor 
+# 11, ‘A’ wing 
+Divyasree Chambers 
+Langford Town 
+Bengaluru - 560 025 
+Tel: + 91 80 6727 5000 
+3rd & 4th Floor 
+MARKSQUARE 
+#61, St. Mark’s Road 
+Shantala Nagar 
+Bengaluru - 560 001 
+Tel: + 91 80 6727 5000 
+1st & 8th Floor, Tower A 
+Prestige Shantiniketan 
+Mahadevapura Post 
+Whitefield, Bengaluru - 560 048 
+Tel: + 91 80 6727 5000 
+Bhubaneswar 
+8th Floor, O-Hub, Tower A 
+Chandaka SEZ, Bhubaneswar 
+Odisha – 751024 
+Tel: + 91 674 274 4490 
+Chandigarh 
+Elante offices, Unit No. B-613 & 614 
+6th Floor, Plot No- 178-178A 
+Industrial & Business Park, Phase-I 
+Chandigarh - 160 002 
+Tel: + 91 172 6717800 
+
+Chennai 6th & 7th Floor, A Block, Tidel Park, No.4, Rajiv Gandhi Salai Taramani, Chennai - 600 113 Tel: + 91 44 6654 8100
+
+Delhi NCR 
+Aikyam 
+Ground Floor 
+67, Institutional Area 
+Sector 44, Gurugram - 122 003 
+Haryana 
+Tel: + 91 124 443 4000 
+
+3rd & 6th Floor, Worldmark-1 IGI Airport Hospitality District Aerocity, New Delhi - 110 037 Tel: + 91 11 4731 8000
+
+4th & 5th Floor, Plot No 2B Tower 2, Sector 126 Gautam Budh Nagar, U.P. Noida - 201 304 Tel: + 91 120 671 7000
+
+Hyderabad
+
+THE SKYVIEW 10 18th Floor, “SOUTH LOBBY” Survey No 83/1, Raidurgam Hyderabad - 500 032 Tel: + 91 40 6736 2000
+
+Jaipur
+
+9th floor, Jewel of India Horizon Tower, JLN Marg Opp Jaipur Stock Exchange Jaipur, Rajasthan – 302018
+
+Kochi
+
+9th Floor, ABAD Nucleus NH-49, Maradu PO Kochi - 682 304 Tel: + 91 484 433 4000
+
+Kolkata
+
+22 Camac Street 
+3rd Floor, Block ‘C’ 
+Kolkata - 700 016 
+Tel: + 91 33 6615 3400 
+6th floor, Sector V, 
+Building Omega, Bengal Intelligent Park, Salt 
+Lake Electronics Complex, Bidhan Nagar 
+Kolkata - 700 091 
+Tel: + 91 33 6615 3400 
+
+Mumbai
+
+14th Floor, The Ruby 
+29 Senapati Bapat Marg 
+Dadar (W), Mumbai - 400 028 
+Tel: + 91 22 6192 0000 
+5th Floor, Block B-2 
+Nirlon Knowledge Park 
+Off. Western Express Highway 
+Goregaon (E) 
+Mumbai - 400 063 
+Tel: + 91 22 6192 0000 
+3rd Floor, Unit No.301 
+Building No.1, Mindspace-Gigaplex 
+IT Park, MIDC, Plot No. IT-5 
+Airoli Knowledge Park 
+Airoli West, Navi Mumbai - 400 708 
+Tel: + 91 22 6192 0003 
+18th Floor, Altimus 
+Pandurang Budhkar Marg, Worli 
+Mumbai - 400 018 
+Tel: + 91 22 6192 0503 
+
+Pune
+
+C-401, 4th Floor 
+Panchshil Tech Park, Yerwada 
+(Near Don Bosco School) 
+Pune - 411 006 
+Tel: + 91 20 4912 6000 
+10th Floor, Smartworks 
+M-Agile, Pan Card Club Road 
+Baner, Pune - 411 045 
+Tel: + 91 20 4912 6800 
+
+O u r o f f i c e s
+
+About EY-Parthenon Our unique combination of transformative strategy, transactions and corporate finance delivers real-world value – solutions that work in practice, not just on paper. Benefiting from EY’s full spectrum of services, we’ve reimagined strategic consulting to work in a world of increasing complexity. With deep functional and sector expertise, paired with innovative AI-powered technology and an investor mindset, we partner with CEOs, boards, private equity and governments every step of the way – enabling you to shape your future with confidence. EY-Parthenon is a brand under which a number of EY member firms across the globe provide strategy consulting services. For more information, please visit www.ey.com/parthenon.
+
+Ernst & Young LLP is one of the Indian client serving member firms of EYGM Limited. 
+For more information about our organization, please visit www.ey.com/en_in. 
+Ernst & Young LLP is a Limited Liability Partnership, registered under the Limited 
+Liability Partnership Act, 2008 in India, having its registered office at Ground Floor, 
+Plot No. 67, Institutional Area, Sector - 44, Gurugram - 122003, Haryana, India. 
+© 2025 Ernst & Young LLP. Published in India. 
+All Rights Reserved. 
+EYIN2512-016 
+This publication contains information in summary form and is therefore intended for 
+general guidance only. It is not intended to be a substitute for detailed research or 
+the exercise of professional judgment. Neither EYGM Limited nor any other member 
+of the global Ernst & Young organization can accept any responsibility for loss 
+occasioned to any person acting or refraining from action as a result of any material 
+in this publication. On any specific matter, reference should be made to the 
+appropriate advisor. 
+JG 
+
+Ernst & Young LLP
+
+EY | Building a better working world
+
+EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets. Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow. EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multidisciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.
+
+All in to shape the future with confidence.
+
+EY refers to the global organization, and may refer to one or more, of the member firms of Ernst & Young Global Limited, each of which is a separate legal entity. Ernst & Young Global Limited, a UK company limited by guarantee, does not provide services to clients. Information about how EY collects and uses personal data and a description of the rights individuals have under data protection legislation are available via ey.com/privacy. EYG member firms do not practice law where prohibited by local laws. For more information about our organization, please visit ey.com.
+
