@@ -34,6 +34,10 @@ Open the URL Vite prints (often http://localhost:5173).
 
 https://cienergy.github.io/company-researcher/
 
+## Live site
+
+https://cienergy.github.io/company-researcher/
+
 Repo: https://github.com/Cienergy/company-researcher
 
 ## Notes
